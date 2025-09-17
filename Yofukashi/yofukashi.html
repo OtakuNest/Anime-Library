@@ -106,26 +106,45 @@
       margin: 15px 0;
     }
 
-    /* Gradient Outline Episode Buttons */
+    /* Rounded Gradient Outline Episode Buttons */
     .episode a {
       display: inline-block;
       width: 100%;
       padding: 12px 18px;
-      border-radius: 8px;
       font-weight: 600;
       text-decoration: none;
       text-align: center;
       color: #4af; /* text color */
-      background: transparent;
-      border: 2px solid transparent;
-      border-image: linear-gradient(135deg, #fff, #4af) 1;
-      transition: all 0.3s ease;
+      border-radius: 12px; /* rounded corners */
+      position: relative;
+      z-index: 1;
+      background: #0d0d0d; /* match page background */
+      transition: transform 0.3s ease, color 0.3s ease;
+    }
+
+    .episode a::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: 12px; /* match parent radius */
+      padding: 2px; /* thickness of border */
+      background: linear-gradient(135deg, #fff, #4af);
+      -webkit-mask:
+        linear-gradient(#fff 0 0) content-box,
+        linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+              mask-composite: exclude;
+      z-index: -1;
+      transition: background 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .episode a:hover::before {
+      background: linear-gradient(135deg, #4af, #1e90ff);
+      box-shadow: 0 0 12px rgba(74, 175, 255, 0.6);
     }
 
     .episode a:hover {
-      color: #fff; /* brighten text */
-      border-image: linear-gradient(135deg, #4af, #1e90ff) 1;
-      box-shadow: 0 0 12px rgba(74, 175, 255, 0.6);
+      color: #fff;
       transform: translateY(-2px) scale(1.02);
     }
 
@@ -143,10 +162,10 @@
 <body>
   <!-- Header with back button -->
   <header>
-    <a href="../library.html" class="back-btn">Back to Library</a>
+    <a href="../index.html" class="back-btn">Back to Library</a>
   </header>
 
-  <!-- Banner using global OtakuNest banner -->
+  <!-- Banner -->
   <div class="banner">
     <h1>Yofukashi no Uta</h1>
   </div>
