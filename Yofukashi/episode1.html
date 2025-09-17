@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OtakuNest - Video Player</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header {
+      background: #1f1f1f;
+      padding: 15px;
+      font-size: 1.4em;
+      font-weight: bold;
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      flex: 1;
+      padding: 15px;
+    }
+    .main-content {
+      flex: 3;
+      margin-right: 20px;
+    }
+    .video-container {
+      margin-bottom: 20px;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 500px;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.7);
+    }
+    .episodes {
+      margin-top: 20px;
+      background: #1f1f1f;
+      padding: 15px;
+      border-radius: 8px;
+    }
+    .episodes h2 {
+      margin-top: 0;
+      font-size: 1.2em;
+    }
+    .episodes a {
+      display: block;
+      padding: 8px 0;
+      color: #ff6699;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .episodes a:hover {
+      color: #ff3c78;
+    }
+    .suggestions {
+      flex: 1;
+      background: #1f1f1f;
+      padding: 15px;
+      border-radius: 8px;
+    }
+    .suggestions h2 {
+      font-size: 1.2em;
+      margin-top: 0;
+    }
+    .suggestions a {
+      display: block;
+      padding: 8px 0;
+      color: #ffccff;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .suggestions a:hover {
+      color: #ff3c78;
+    }
+    .back-link {
+      display: inline-block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      background: #ff3c78;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      transition: 0.3s;
+    }
+    .back-link:hover {
+      background: #ff6699;
+    }
+    footer {
+      background: #1f1f1f;
+      text-align: center;
+      padding: 10px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>OtakuNest</header>
+
+  <div class="container">
+    <!-- Main video and episodes -->
+    <div class="main-content">
+      <div class="video-container">
+        <iframe src="https://pixeldrain.com/u/WRxDAo9j?embed" allowfullscreen></iframe>
+      </div>
+
+      <div class="episodes">
+        <h2>Episodes</h2>
+        <a href="episode1.html">Episode 1</a>
+        <a href="episode2.html">Episode 2</a>
+        <a href="episode3.html">Episode 3</a>
+      </div>
+    </div>
+
+    <!-- Suggestions sidebar -->
+    <div class="suggestions">
+  <h2>Suggested Anime</h2>
+
+  <a href="../ChainsawMan/chainsawman.html" class="suggestion-item">
+    <img src="../ChainsawMan/cover.jpg" alt="Chainsaw Man">
+    <span>Chainsaw Man</span>
+  </a>
+
+  <a href="../TokyoGhoul/tokyoghoul.html" class="suggestion-item">
+    <img src="../TokyoGhoul/cover.jpg" alt="Tokyo Ghoul">
+    <span>Tokyo Ghoul</span>
+  </a>
+
+  <a href="../OwariNoSeraph/owarinoseraph.html" class="suggestion-item">
+    <img src="../OwariNoSeraph/cover.jpg" alt="Owari no Seraph">
+    <span>Owari no Seraph</span>
+  </a>
+
+  <a href="../Noragami/noragami.html" class="suggestion-item">
+    <img src="../Noragami/cover.jpg" alt="Noragami">
+    <span>Noragami</span>
+  </a>
+
+  <a href="../DevilmanCrybaby/devilman.html" class="suggestion-item">
+    <img src="../DevilmanCrybaby/cover.jpg" alt="Devilman Crybaby">
+    <span>Devilman Crybaby</span>
+  </a>
+</div>
+
+  </div>
+
+  <a href="library.html" class="back-link">⬅ Back to Library</a>
+
+  <footer>© 2025 OtakuNest. All rights reserved.</footer>
+</body>
+</html>
