@@ -3,7 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>OtakuNest - Anime Library</title>
+  <title>OtakuNest</title>
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="logo.png">
+
   <style>
     /* ---------- Global ---------- */
     body {
@@ -21,18 +24,20 @@
     /* ---------- Header ---------- */
     header {
       background: linear-gradient(90deg, #1a1a1a, #2a002e);
-      padding: 15px 40px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
+      padding: 20px;
+      text-align: center;
       box-shadow: 0 4px 15px rgba(0,0,0,0.6);
       position: sticky;
       top: 0;
       z-index: 1000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
     }
 
     header h1 {
-      font-size: 1.8rem;
+      font-size: 2rem;
       background: linear-gradient(90deg, #ff4ecb, #6e00ff);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -40,7 +45,7 @@
     }
 
     nav a {
-      margin-left: 25px;
+      margin: 0 15px;
       font-weight: bold;
       font-size: 1rem;
       position: relative;
@@ -185,34 +190,33 @@
   </section>
 
   <!-- Popular Anime This Season -->
-<h2 class="section-title">Popular Anime This Season</h2>
-<section class="library">
-  <div class="card">
-    <a href="chainsaw/chainsaw.html">
-      <img src="chainsaw/cover.jpg" alt="Chainsaw Man">
-      <h3>Chainsaw Man</h3>
-    </a>
-  </div>
-  <div class="card">
-    <a href="spyxfamily/spyxfamily.html">
-      <img src="spyxfamily/cover.jpg" alt="Spy x Family">
-      <h3>Spy x Family</h3>
-    </a>
-  </div>
-  <div class="card">
-    <a href="jujutsukaisen/jujutsukaisen.html">
-      <img src="jujutsukaisen/cover.jpg" alt="Jujutsu Kaisen">
-      <h3>Jujutsu Kaisen</h3>
-    </a>
-  </div>
-  <div class="card">
-    <a href="myhero/myhero.html">
-      <img src="myhero/cover.jpg" alt="My Hero Academia">
-      <h3>My Hero Academia</h3>
-    </a>
-  </div>
-</section>
-
+  <h2 class="section-title">Popular Anime This Season</h2>
+  <section class="library">
+    <div class="card">
+      <a href="chainsaw/chainsaw.html">
+        <img src="chainsaw/cover.jpg" alt="Chainsaw Man">
+        <h3>Chainsaw Man</h3>
+      </a>
+    </div>
+    <div class="card">
+      <a href="spyxfamily/spyxfamily.html">
+        <img src="spyxfamily/cover.jpg" alt="Spy x Family">
+        <h3>Spy x Family</h3>
+      </a>
+    </div>
+    <div class="card">
+      <a href="jujutsukaisen/jujutsukaisen.html">
+        <img src="jujutsukaisen/cover.jpg" alt="Jujutsu Kaisen">
+        <h3>Jujutsu Kaisen</h3>
+      </a>
+    </div>
+    <div class="card">
+      <a href="myhero/myhero.html">
+        <img src="myhero/cover.jpg" alt="My Hero Academia">
+        <h3>My Hero Academia</h3>
+      </a>
+    </div>
+  </section>
 
   <!-- Anime Library -->
   <h2 class="section-title">Anime Library</h2>
