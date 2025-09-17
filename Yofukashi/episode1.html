@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>OtakuNest - Video Player</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #121212;
+      font-family: "Poppins", sans-serif;
+      background-color: #0d0d0d;
       color: #fff;
       margin: 0;
       padding: 0;
@@ -15,144 +15,246 @@
       flex-direction: column;
       min-height: 100vh;
     }
-    header {
-      background: #1f1f1f;
-      padding: 15px;
-      font-size: 1.4em;
-      font-weight: bold;
-      text-align: center;
+
+    /* Back Button */
+    .back-link {
+      display: inline-block;
+      margin: 20px 40px;
+      padding: 8px 18px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 999px;
+      border: 2px solid transparent;
+      background:
+        linear-gradient(#0d0d0d, #0d0d0d) padding-box,
+        linear-gradient(90deg, #4facfe, #ff4ecb) border-box;
+      transition: all 0.25s ease;
+      position: relative;
+      z-index: 0;
     }
+
+    .back-link:hover {
+      background:
+        linear-gradient(90deg, #4facfe, #ff4ecb) padding-box,
+        linear-gradient(90deg, #4facfe, #ff4ecb) border-box;
+      color: #0d0d0d;
+      transform: translateY(-3px);
+      box-shadow: 0 6px 18px rgba(79,172,254,0.10), 0 6px 30px rgba(255,78,203,0.08);
+    }
+
+    /* Banner */
+    .banner {
+      background: url('../Banner.png') center/cover no-repeat;
+      height: 275px;
+      box-shadow: inset 0 -100px 100px rgba(0,0,0,0.7);
+    }
+
+    /* Title under banner */
+    .banner-title {
+      text-align: center;
+      font-size: 2.2rem;
+      font-weight: bold;
+      margin: 25px 0;
+      color: #ff4ecb;
+      text-shadow: 2px 2px 6px #000;
+    }
+
     .container {
       display: flex;
       flex: 1;
-      padding: 15px;
+      gap: 30px;
+      padding: 40px 60px;
+      flex-wrap: wrap;
     }
+
     .main-content {
-      flex: 3;
-      margin-right: 20px;
+      flex: 4;
+      min-width: 300px;
     }
+
     .video-container {
-      margin-bottom: 20px;
-    }
-    iframe {
-      border: none;
+      margin-bottom: 24px;
+      position: relative;
       width: 100%;
-      height: 500px;
-      border-radius: 8px;
-      box-shadow: 0 0 15px rgba(0,0,0,0.7);
+      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      height: 0;
     }
+
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: 14px;
+      box-shadow: 0 0 30px rgba(0,0,0,0.7);
+    }
+
+    /* Episodes */
     .episodes {
-      margin-top: 20px;
-      background: #1f1f1f;
-      padding: 15px;
-      border-radius: 8px;
+      margin-top: 25px;
+      background: #1a1a1a;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.6);
     }
+
     .episodes h2 {
       margin-top: 0;
-      font-size: 1.2em;
+      font-size: 1.6em;
+      border-left: 5px solid #ff4ecb;
+      padding-left: 12px;
+      margin-bottom: 18px;
     }
-    .episodes a {
-      display: block;
-      padding: 8px 0;
-      color: #ff6699;
-      text-decoration: none;
-      transition: 0.3s;
-    }
-    .episodes a:hover {
-      color: #ff3c78;
-    }
-    .suggestions {
-      flex: 1;
-      background: #1f1f1f;
-      padding: 15px;
-      border-radius: 8px;
-    }
-    .suggestions h2 {
-      font-size: 1.2em;
-      margin-top: 0;
-    }
-    .suggestions a {
-      display: block;
-      padding: 8px 0;
-      color: #ffccff;
-      text-decoration: none;
-      transition: 0.3s;
-    }
-    .suggestions a:hover {
-      color: #ff3c78;
-    }
-    .back-link {
+
+    .episode-btn {
       display: inline-block;
-      margin: 20px auto;
-      padding: 10px 20px;
-      background: #ff3c78;
-      color: #fff;
+      margin: 10px 14px 10px 0;
+      padding: 12px 26px;
+      font-size: 1.05em;
+      font-weight: bold;
       text-decoration: none;
-      border-radius: 6px;
+      color: #fff;
+      border-radius: 999px;
+      border: 2px solid transparent;
+      background:
+        linear-gradient(#0d0d0d, #0d0d0d) padding-box,
+        linear-gradient(90deg, #00c6ff, #0072ff) border-box;
+      transition: all 0.25s ease;
+    }
+
+    .episode-btn:hover {
+      background:
+        linear-gradient(90deg, #00c6ff, #0072ff) padding-box,
+        linear-gradient(90deg, #00c6ff, #0072ff) border-box;
+      color: #0d0d0d;
+      transform: scale(1.07);
+      box-shadow: 0 0 12px rgba(0,114,255,0.6);
+    }
+
+    /* Suggestions */
+    .suggestions {
+      flex: 1.5;
+      background: #1a1a1a;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.6);
+      max-height: 850px;
+      overflow-y: auto;
+      min-width: 220px;
+    }
+
+    .suggestions h2 {
+      font-size: 1.4em;
+      margin-top: 0;
+      border-left: 5px solid #00c6ff;
+      padding-left: 12px;
+      margin-bottom: 18px;
+    }
+
+    .suggestion-item {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 14px;
+      text-decoration: none;
+      color: #fff;
       transition: 0.3s;
+      border-radius: 8px;
+      padding: 8px;
     }
-    .back-link:hover {
-      background: #ff6699;
+
+    .suggestion-item img {
+      width: 70px;
+      height: 95px;
+      border-radius: 8px;
+      object-fit: cover;
     }
+
+    .suggestion-item span {
+      font-size: 1.05em;
+      font-weight: 500;
+    }
+
+    .suggestion-item:hover {
+      background: rgba(255,255,255,0.05);
+      transform: translateX(8px);
+    }
+
     footer {
-      background: #1f1f1f;
+      background: #111;
       text-align: center;
-      padding: 10px;
-      font-size: 0.9em;
+      padding: 18px;
+      font-size: 1em;
+      color: #aaa;
     }
   </style>
 </head>
 <body>
-  <header>OtakuNest</header>
+
+  <!-- Back button above banner -->
+  <a href="yofukashi.html" class="back-link">Back to Previous</a>
+
+  <!-- Banner -->
+  <div class="banner"></div>
+
+  <!-- Title under banner -->
+  <h1 class="banner-title">Yofukashi no Uta</h1>
 
   <div class="container">
     <!-- Main video and episodes -->
     <div class="main-content">
       <div class="video-container">
-        <iframe src="https://pixeldrain.com/u/WRxDAo9j?embed" allowfullscreen></iframe>
+        <iframe 
+          src="https://acefile.co/player/78851218" 
+          frameborder="0" 
+          marginwidth="0" 
+          marginheight="0" 
+          scrolling="no" 
+          allowfullscreen="true">
+        </iframe>
       </div>
 
       <div class="episodes">
         <h2>Episodes</h2>
-        <a href="episode1.html">Episode 1</a>
-        <a href="episode2.html">Episode 2</a>
-        <a href="episode3.html">Episode 3</a>
+        <a href="episode1.html" class="episode-btn">Episode 1</a>
+        <a href="episode2.html" class="episode-btn">Episode 2</a>
+        <a href="episode3.html" class="episode-btn">Episode 3</a>
       </div>
     </div>
 
     <!-- Suggestions sidebar -->
     <div class="suggestions">
-  <h2>Suggested Anime</h2>
+      <h2>Suggested Anime</h2>
 
-  <a href="../ChainsawMan/chainsawman.html" class="suggestion-item">
-    <img src="../ChainsawMan/cover.jpg" alt="Chainsaw Man">
-    <span>Chainsaw Man</span>
-  </a>
+      <a href="../ChainsawMan/chainsawman.html" class="suggestion-item">
+        <img src="../ChainsawMan/cover.jpg" alt="Chainsaw Man" />
+        <span>Chainsaw Man</span>
+      </a>
 
-  <a href="../TokyoGhoul/tokyoghoul.html" class="suggestion-item">
-    <img src="../TokyoGhoul/cover.jpg" alt="Tokyo Ghoul">
-    <span>Tokyo Ghoul</span>
-  </a>
+      <a href="../TokyoGhoul/tokyoghoul.html" class="suggestion-item">
+        <img src="../TokyoGhoul/cover.jpg" alt="Tokyo Ghoul" />
+        <span>Tokyo Ghoul</span>
+      </a>
 
-  <a href="../OwariNoSeraph/owarinoseraph.html" class="suggestion-item">
-    <img src="../OwariNoSeraph/cover.jpg" alt="Owari no Seraph">
-    <span>Owari no Seraph</span>
-  </a>
+      <a href="../OwariNoSeraph/owarinoseraph.html" class="suggestion-item">
+        <img src="../OwariNoSeraph/cover.jpg" alt="Owari no Seraph" />
+        <span>Owari no Seraph</span>
+      </a>
 
-  <a href="../Noragami/noragami.html" class="suggestion-item">
-    <img src="../Noragami/cover.jpg" alt="Noragami">
-    <span>Noragami</span>
-  </a>
+      <a href="../Noragami/noragami.html" class="suggestion-item">
+        <img src="../Noragami/cover.jpg" alt="Noragami" />
+        <span>Noragami</span>
+      </a>
 
-  <a href="../DevilmanCrybaby/devilman.html" class="suggestion-item">
-    <img src="../DevilmanCrybaby/cover.jpg" alt="Devilman Crybaby">
-    <span>Devilman Crybaby</span>
-  </a>
-</div>
-
+      <a href="../DevilmanCrybaby/devilman.html" class="suggestion-item">
+        <img src="../DevilmanCrybaby/cover.jpg" alt="Devilman Crybaby" />
+        <span>Devilman Crybaby</span>
+      </a>
+    </div>
   </div>
-
-  <a href="library.html" class="back-link">⬅ Back to Library</a>
 
   <footer>© 2025 OtakuNest. All rights reserved.</footer>
 </body>
