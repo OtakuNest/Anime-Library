@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Yofukashi no Uta",
+    "image": "Yofukashi/cover.jpg",
+    "link": "Yofukashi/yofukashi.html",
+    "categories": ["Romance","Slice of Life"],
+    "dateAdded": "2025-09-01",
+    "isHot": false,
+    "isPopular": false,
+    "isSuggested": true,
+    "desc": "Late-night romance."
+  },
+  {
+    "title": "Naruto",
+    "image": "naruto/naruto-cover.jpg",
+    "link": "naruto/naruto.html",
+    "categories": ["Shounen","Action"],
+    "dateAdded": "2002-10-03",
+    "isPopular": true,
+    "desc": "Ninja adventure."
+  }
+]

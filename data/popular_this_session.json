@@ -1,0 +1,14 @@
+    [
+  {
+    "title": "Chainsaw Man",
+    "image": "chainsaw/cover.jpg",
+    "link": "chainsaw/chainsaw.html",
+    "categories": ["Action","Horror"]
+  },
+  {
+    "title": "Spy x Family",
+    "image": "spyxfamily/cover.jpg",
+    "link": "spyxfamily/spyxfamily.html",
+    "categories": ["Comedy","Action"]
+  }
+]
