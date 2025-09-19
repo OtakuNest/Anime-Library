@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ms">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -66,6 +66,12 @@
       width: 100%;
     }
 
+    /* Search */
+    .search-wrap{width:100%;display:flex;justify-content:center}
+    #search{
+      width:320px;max-width:90%;padding:10px 14px;border-radius:999px;border:0;outline:none;box-shadow:0 6px 18px rgba(0,0,0,0.5);background:#121212;color:#fff
+    }
+
     /* ---------- Banner ---------- */
     .banner {
       background: url('Banner.png') center/cover no-repeat;
@@ -106,6 +112,11 @@
       text-shadow: 0 0 10px rgba(255,78,203,0.5);
     }
 
+    /* ---------- Genres (filter) ---------- */
+    .genres{display:flex;gap:10px;flex-wrap:wrap;padding:0 30px 10px}
+    .genre-btn{background:#171717;border:1px solid #2b2b2b;padding:8px 12px;border-radius:999px;cursor:pointer;font-weight:600}
+    .genre-btn:hover{box-shadow:0 6px 18px rgba(255,78,203,0.08)}
+
     /* ---------- Library Grid ---------- */
     .library {
       display: grid;
@@ -145,6 +156,8 @@
       color: #ffb3ec;
     }
 
+    .no-items{color:#888;padding:12px}
+
     /* ---------- Footer ---------- */
     footer {
       text-align: center;
@@ -154,6 +167,12 @@
       font-size: 0.9rem;
       border-top: 1px solid #333;
     }
+
+    /* Responsive tweaks */
+    @media (max-width:600px){
+      .banner{height:220px}
+      .banner h2{font-size:2rem}
+    }
   </style>
 </head>
 <body>
@@ -162,10 +181,14 @@
     <h1>OtakuNest</h1>
     <nav>
       <a href="#">Home</a>
-      <a href="#">Library</a>
-      <a href="#">Genres</a>
-      <a href="#">About</a>
+      <a href="#library">Library</a>
+      <a href="#genres">Genres</a>
+      <a href="#about">About</a>
     </nav>
+
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Cari anime (tajuk / genre) ..." />
+    </div>
   </header>
 
   <section class="banner">
@@ -174,93 +197,39 @@
 
   <!-- Hot Anime -->
   <h2 class="section-title">Hot Anime</h2>
-  <section class="library">
-    <div class="card">
-      <a href="aot/aot.html">
-        <img src="aot/aot-cover.jpg" alt="Attack on Titan">
-        <h3>Attack on Titan</h3>
-      </a>
-    </div>
-    <div class="card">
-      <a href="naruto/naruto.html">
-        <img src="naruto/naruto-cover.jpg" alt="Naruto">
-        <h3>Naruto</h3>
-      </a>
-    </div>
+  <section class="library" id="hot-library">
+    <!-- cards injected by JS -->
   </section>
 
   <!-- Popular Anime This Season -->
   <h2 class="section-title">Popular Anime This Season</h2>
-  <section class="library">
-    <div class="card">
-      <a href="chainsaw/chainsaw.html">
-        <img src="chainsaw/cover.jpg" alt="Chainsaw Man">
-        <h3>Chainsaw Man</h3>
-      </a>
-    </div>
-    <div class="card">
-      <a href="spyxfamily/spyxfamily.html">
-        <img src="spyxfamily/cover.jpg" alt="Spy x Family">
-        <h3>Spy x Family</h3>
-      </a>
-    </div>
-    <div class="card">
-      <a href="jujutsukaisen/jujutsukaisen.html">
-        <img src="jujutsukaisen/cover.jpg" alt="Jujutsu Kaisen">
-        <h3>Jujutsu Kaisen</h3>
-      </a>
-    </div>
-    <div class="card">
-      <a href="myhero/myhero.html">
-        <img src="myhero/cover.jpg" alt="My Hero Academia">
-        <h3>My Hero Academia</h3>
-      </a>
-    </div>
+  <section class="library" id="popular-library">
+    <!-- cards injected by JS -->
   </section>
 
+  <!-- Genres (click to filter) -->
+  <h2 class="section-title" id="genres">Genres</h2>
+  <div class="genres" id="genres-list">
+    <!-- genre buttons injected here -->
+  </div>
+
   <!-- Anime Library -->
-  <h2 class="section-title">Anime Library</h2>
-  <section class="library">
-    <div class="card">
-      <a href="Yofukashi/yofukashi.html">
-        <img src="Yofukashi/cover.jpg" alt="Yofukashi no Uta">
-        <h3>Yofukashi no Uta</h3>
-      </a>
-    </div>
-    <div class="card">
-      <a href="naruto/naruto.html">
-        <img src="naruto/naruto-cover.jpg" alt="Naruto">
-        <h3>Naruto</h3>
-      </a>
-    </div>
-    <div class="card">
-      <a href="aot/aot.html">
-        <img src="aot/aot-cover.jpg" alt="Attack on Titan">
-        <h3>Attack on Titan</h3>
-      </a>
-    </div>
+  <h2 class="section-title" id="library">Anime Library</h2>
+  <section class="library" id="all-library">
+    <!-- cards injected by JS -->
   </section>
 
   <!-- Suggested Anime -->
   <h2 class="section-title">Suggested Anime</h2>
-  <section class="library">
-    <div class="card">
-      <a href="Yofukashi/yofukashi.html">
-        <img src="Yofukashi/cover.jpg" alt="Yofukashi no Uta">
-        <h3>Yofukashi no Uta</h3>
-      </a>
-    </div>
-    <div class="card">
-      <a href="aot/aot.html">
-        <img src="aot/aot-cover.jpg" alt="Attack on Titan">
-        <h3>Attack on Titan</h3>
-      </a>
-    </div>
+  <section class="library" id="suggested-library">
+    <!-- cards injected by JS -->
   </section>
 
   <footer>
     <p>© 2025 OtakuNest. Built with ❤️ for anime fans.</p>
   </footer>
 
+
+  <script src="js/main.js"></script>
 </body>
 </html>
