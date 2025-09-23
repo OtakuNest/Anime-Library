@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OtakuNest - About Us</title>
+  <link rel="icon" type="image/png" href="logo.png">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Poppins", sans-serif;
+      background-color: #0d0d0d;
+      color: #fff;
+    }
+
+    a { text-decoration: none; color: inherit; }
+
+    header {
+      background: linear-gradient(90deg, #1a1a1a, #2a002e);
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      background: linear-gradient(90deg, #ff4ecb, #6e00ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin: 0;
+    }
+
+    nav a {
+      margin: 0 15px;
+      font-weight: bold;
+      font-size: 1rem;
+      position: relative;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      width: 0;
+      height: 2px;
+      left: 0;
+      bottom: -5px;
+      background: #ff4ecb;
+      transition: 0.3s;
+    }
+    nav a:hover::after { width: 100%; }
+
+    h2.section-title {
+      margin: 20px 30px;
+      font-size: 1.8rem;
+      color: #ff4ecb;
+      border-left: 5px solid #ff4ecb;
+      padding-left: 15px;
+      text-shadow: 0 0 10px rgba(255,78,203,0.5);
+    }
+
+    .about-container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 30px;
+      line-height: 1.8;
+      font-size: 1rem;
+      color: #ddd;
+      background: #1a1a1a;
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+    }
+
+    .about-container h3 {
+      color: #ffb3ec;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+
+    .highlight {
+      color: #21c4ff;
+      font-weight: bold;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1a1a1a;
+      color: #aaa;
+      font-size: 0.9rem;
+      border-top: 1px solid #333;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>OtakuNest</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="library.html">Library</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <h2 class="section-title">About Us</h2>
+
+  <section class="about-container">
+    <p>
+      Welcome to <span class="highlight">OtakuNest</span> — the community hub for all anime fans! 
+      We exist with the passion to connect otakus worldwide through a clean, organized, and 
+      user-friendly anime library.
+    </p>
+
+    <h3>Our Mission</h3>
+    <p>
+      To provide the best <span class="highlight">anime streaming & discovery experience</span> 
+      with a modern design, easy navigation, and an ever-growing collection.
+    </p>
+
+    <h3>What We Offer</h3>
+    <ul>
+      <li>A vast library of anime across multiple genres.</li>
+      <li>Quick search & filter to find your favorites easily.</li>
+      <li>Modern, dark-themed design that’s easy on the eyes.</li>
+      <li>A growing community of anime enthusiasts.</li>
+    </ul>
+
+    <h3>Why OtakuNest?</h3>
+    <p>
+      We believe every anime has a story, and every fan deserves a place to 
+      discover, discuss, and appreciate it. 
+      <span class="highlight">OtakuNest</span> is the “nest” for all otakus!
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 OtakuNest. Built with ❤️ for anime fans.</p>
+  </footer>
+</body>
+</html>

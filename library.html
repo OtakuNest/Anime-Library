@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OtakuNest - Library</title>
+  <link rel="icon" type="image/png" href="logo.png">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Poppins", sans-serif;
+      background-color: #0d0d0d;
+      color: #fff;
+    }
+
+    a { text-decoration: none; color: inherit; }
+
+    header {
+      background: linear-gradient(90deg, #1a1a1a, #2a002e);
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.6);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      background: linear-gradient(90deg, #ff4ecb, #6e00ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin: 0;
+    }
+
+    nav a {
+      margin: 0 15px;
+      font-weight: bold;
+      font-size: 1rem;
+      position: relative;
+    }
+    nav a::after {
+      content: "";
+      position: absolute;
+      width: 0;
+      height: 2px;
+      left: 0;
+      bottom: -5px;
+      background: #ff4ecb;
+      transition: 0.3s;
+    }
+    nav a:hover::after { width: 100%; }
+
+    .genre-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      padding: 20px;
+    }
+
+    .genre-btn {
+      padding: 10px 18px;
+      border-radius: 999px;
+      border: 2px solid #ff4ecb;
+      background: transparent;
+      color: #ffb3ec;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    .genre-btn:hover {
+      background: #ff4ecb;
+      color: #fff;
+      box-shadow: 0 0 12px rgba(255,78,203,0.6);
+    }
+
+    h2.section-title {
+      margin: 20px 30px;
+      font-size: 1.8rem;
+      color: #ff4ecb;
+      border-left: 5px solid #ff4ecb;
+      padding-left: 15px;
+      text-shadow: 0 0 10px rgba(255,78,203,0.5);
+    }
+
+    .library {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 25px;
+      padding: 0 30px 40px;
+    }
+
+    .card {
+      background: #1a1a1a;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+      transition: transform 0.25s, box-shadow 0.25s;
+      cursor: pointer;
+    }
+    .card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 12px 30px rgba(255,78,203,0.4);
+    }
+    .card img {
+      width: 100%;
+      height: 260px;
+      object-fit: cover;
+      transition: transform 0.3s;
+    }
+    .card:hover img { transform: scale(1.05); }
+    .card h3 {
+      padding: 12px;
+      font-size: 1.1rem;
+      text-align: center;
+      color: #ffb3ec;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1a1a1a;
+      color: #aaa;
+      font-size: 0.9rem;
+      border-top: 1px solid #333;
+    }
+    @media (max-width:600px){ .card img{height:200px} }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>OtakuNest</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="library.html">Library</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <h2 class="section-title">Anime Library</h2>
+
+<!-- Search Bar -->
+<div style="text-align:center; padding: 20px;">
+  <input 
+    type="text" 
+    id="searchInput" 
+    placeholder="Search Anime..." 
+    onkeyup="searchAnime()" 
+    style="
+      padding: 12px 18px; 
+      width: 60%; 
+      max-width: 420px; 
+      border-radius: 30px; 
+      border: 2px solid #21c4ff; 
+      background: #1a1a1a; 
+      color: #fff; 
+      font-size: 1rem; 
+      outline: none; 
+      transition: 0.3s;
+    "
+    onfocus="this.style.boxShadow='0 0 10px rgba(255,78,203,0.6)'" 
+    onblur="this.style.boxShadow='none'"
+  />
+</div>
+
+
+  <!-- Genre Buttons -->
+<div class="genre-bar">
+  <button class="genre-btn" onclick="filterAnime('All')">All</button>
+  <button class="genre-btn" onclick="filterAnime('Romance')">Romance</button>
+  <button class="genre-btn" onclick="filterAnime('Action')">Action</button>
+  <button class="genre-btn" onclick="filterAnime('Comedy')">Comedy</button>
+  <button class="genre-btn" onclick="filterAnime('Fantasy')">Fantasy</button>
+  <button class="genre-btn" onclick="filterAnime('Drama')">Drama</button>
+  <button class="genre-btn" onclick="filterAnime('Horror')">Horror</button>
+  <button class="genre-btn" onclick="filterAnime('Mystery')">Mystery</button>
+  <button class="genre-btn" onclick="filterAnime('Adventure')">Adventure</button>
+  <button class="genre-btn" onclick="filterAnime('Slice of Life')">Slice of Life</button>
+  <button class="genre-btn" onclick="filterAnime('Sci-Fi')">Sci-Fi</button>
+  <button class="genre-btn" onclick="filterAnime('Sports')">Sports</button>
+  <button class="genre-btn" onclick="filterAnime('Supernatural')">Supernatural</button>
+  <button class="genre-btn" onclick="filterAnime('Thriller')">Thriller</button>
+  <button class="genre-btn" onclick="filterAnime('Music')">Music</button>
+  <button class="genre-btn" onclick="filterAnime('Historical')">Historical</button>
+  <button class="genre-btn" onclick="filterAnime('Psychological')">Psychological</button>
+  <button class="genre-btn" onclick="filterAnime('Mecha')">Mecha</button>
+</div>
+
+
+  <section class="library" id="libraryGrid"></section>
+
+  <footer>
+    <p>© 2025 OtakuNest. Built with ❤️ for anime fans.</p>
+  </footer>
+
+  <script src="library.js"></script>
+</body>
+</html>

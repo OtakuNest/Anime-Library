@@ -41,7 +41,7 @@ function cardHtml(anime){
   const link = anime.link || '#';
   return `
     <div class="card">
-      <a href="${link}" target="_blank" rel="noopener">
+      <a href="${link}">
         <img src="${escapeHtml(img)}" alt="${escapeHtml(anime.title)}">
         <h3>${escapeHtml(anime.title)}</h3>
       </a>

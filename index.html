@@ -112,11 +112,6 @@
       text-shadow: 0 0 10px rgba(255,78,203,0.5);
     }
 
-    /* ---------- Genres (filter) ---------- */
-    .genres{display:flex;gap:10px;flex-wrap:wrap;padding:0 30px 10px}
-    .genre-btn{background:#171717;border:1px solid #2b2b2b;padding:8px 12px;border-radius:999px;cursor:pointer;font-weight:600}
-    .genre-btn:hover{box-shadow:0 6px 18px rgba(255,78,203,0.08)}
-
     /* ---------- Library Grid ---------- */
     .library {
       display: grid;
@@ -180,14 +175,13 @@
   <header>
     <h1>OtakuNest</h1>
     <nav>
-      <a href="#">Home</a>
-      <a href="#library">Library</a>
-      <a href="#genres">Genres</a>
-      <a href="#about">About</a>
+      <a href="index.html">Home</a>
+      <a href="library.html">Library</a>
+      <a href="about.html">About</a>
     </nav>
 
     <div class="search-wrap">
-      <input id="search" type="search" placeholder="Cari anime (tajuk / genre) ..." />
+      <input id="search" type="search" placeholder="Search Anime ..." />
     </div>
   </header>
 
@@ -207,12 +201,6 @@
     <!-- cards injected by JS -->
   </section>
 
-  <!-- Genres (click to filter) -->
-  <h2 class="section-title" id="genres">Genres</h2>
-  <div class="genres" id="genres-list">
-    <!-- genre buttons injected here -->
-  </div>
-
   <!-- Anime Library -->
   <h2 class="section-title" id="library">Anime Library</h2>
   <section class="library" id="all-library">
@@ -228,7 +216,6 @@
   <footer>
     <p>© 2025 OtakuNest. Built with ❤️ for anime fans.</p>
   </footer>
-
 
   <script src="js/main.js"></script>
 </body>
