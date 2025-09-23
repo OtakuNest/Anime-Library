@@ -1246,5 +1246,269 @@
     "cover": "https://cdn.myanimelist.net/images/anime/1255/138006.jpg",
     "page": "WeakestTamer2/weakesttamer2.html",
     "genre": ["Fantasy", "Adventure", "Slice of Life"]
+  },
+  {
+    "title": "A Certain Magical Index",
+    "cover": "https://cdn.myanimelist.net/images/anime/5/75633.jpg",
+    "page": "Index/index.html",
+    "genre": ["Action", "Fantasy", "Sci-Fi"]
+  },
+  {
+    "title": "A Certain Scientific Railgun",
+    "cover": "https://cdn.myanimelist.net/images/anime/11/53581.jpg",
+    "page": "Railgun/railgun.html",
+    "genre": ["Action", "Sci-Fi", "Super Power"]
+  },
+  {
+    "title": "A Certain Scientific Accelerator",
+    "cover": "https://cdn.myanimelist.net/images/anime/1590/111940.jpg",
+    "page": "Accelerator/accelerator.html",
+    "genre": ["Action", "Sci-Fi", "Super Power"]
+  },
+  {
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "cover": "https://cdn.myanimelist.net/images/anime/2/74047.jpg",
+    "page": "HaruhiMovie/haruhimovie.html",
+    "genre": ["Mystery", "Sci-Fi", "Drama"]
+  },
+  {
+    "title": "The Girl Who Leapt Through Time",
+    "cover": "https://cdn.myanimelist.net/images/anime/6/27.jpg",
+    "page": "GirlWhoLeapt/girlwholeapt.html",
+    "genre": ["Drama", "Romance", "Sci-Fi"]
+  },
+  {
+    "title": "Summer Wars",
+    "cover": "https://cdn.myanimelist.net/images/anime/6/25073.jpg",
+    "page": "SummerWars/summerwars.html",
+    "genre": ["Adventure", "Comedy", "Sci-Fi"]
+  },
+  {
+    "title": "Wolf Children",
+    "cover": "https://cdn.myanimelist.net/images/anime/9/35799.jpg",
+    "page": "WolfChildren/wolfchildren.html",
+    "genre": ["Drama", "Fantasy", "Slice of Life"]
+  },
+  {
+    "title": "The Boy and the Beast",
+    "cover": "https://cdn.myanimelist.net/images/anime/12/77935.jpg",
+    "page": "BoyAndBeast/boyandbeast.html",
+    "genre": ["Adventure", "Fantasy", "Comedy"]
+  },
+  {
+    "title": "Mirai",
+    "cover": "https://cdn.myanimelist.net/images/anime/1975/93469.jpg",
+    "page": "Mirai/mirai.html",
+    "genre": ["Adventure", "Drama", "Fantasy"]
+  },
+  {
+    "title": "Belle",
+    "cover": "https://cdn.myanimelist.net/images/anime/1255/115823.jpg",
+    "page": "Belle/belle.html",
+    "genre": ["Drama", "Fantasy", "Music"]
+  },
+  {
+    "title": "Weathering With You",
+    "cover": "https://cdn.myanimelist.net/images/anime/1595/102531.jpg",
+    "page": "WeatheringWithYou/weatheringwithyou.html",
+    "genre": ["Romance", "Drama", "Supernatural"]
+  },
+  {
+    "title": "Suzume",
+    "cover": "https://cdn.myanimelist.net/images/anime/1592/134237.jpg",
+    "page": "Suzume/suzume.html",
+    "genre": ["Adventure", "Drama", "Supernatural"]
+  },
+  {
+    "title": "5 Centimeters Per Second",
+    "cover": "https://cdn.myanimelist.net/images/anime/6/73426.jpg",
+    "page": "5cmPerSecond/5cm.html",
+    "genre": ["Drama", "Romance", "Slice of Life"]
+  },
+  {
+    "title": "The Place Promised in Our Early Days",
+    "cover": "https://cdn.myanimelist.net/images/anime/12/75789.jpg",
+    "page": "PlacePromised/placepromised.html",
+    "genre": ["Drama", "Romance", "Sci-Fi"]
+  },
+  {
+    "title": "Children Who Chase Lost Voices",
+    "cover": "https://cdn.myanimelist.net/images/anime/9/35669.jpg",
+    "page": "ChildrenLostVoices/childrenlostvoices.html",
+    "genre": ["Adventure", "Drama", "Fantasy"]
+  },
+  {
+    "title": "Patema Inverted",
+    "cover": "https://cdn.myanimelist.net/images/anime/12/55251.jpg",
+    "page": "PatemaInverted/patemainverted.html",
+    "genre": ["Sci-Fi", "Adventure", "Drama"]
+  },
+  {
+    "title": "The Anthem of the Heart",
+    "cover": "https://cdn.myanimelist.net/images/anime/12/75791.jpg",
+    "page": "AnthemHeart/anthemheart.html",
+    "genre": ["Drama", "Romance", "Music"]
+  },
+  {
+    "title": "A Silent Voice",
+    "cover": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+    "page": "SilentVoice/silentvoice.html",
+    "genre": ["Drama", "Romance", "School"]
+  },
+  {
+    "title": "Liz and the Blue Bird",
+    "cover": "https://cdn.myanimelist.net/images/anime/1765/93469.jpg",
+    "page": "LizBlueBird/lizbluebird.html",
+    "genre": ["Drama", "Music", "Slice of Life"]
+  },
+  {
+    "title": "Ride Your Wave",
+    "cover": "https://cdn.myanimelist.net/images/anime/1290/111940.jpg",
+    "page": "RideYourWave/rideyourwave.html",
+    "genre": ["Drama", "Romance", "Supernatural"]
+  },
+  {
+    "title": "Josee, the Tiger and the Fish",
+    "cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
+    "page": "JoseeTigerFish/joseetigerfish.html",
+    "genre": ["Drama", "Romance", "Slice of Life"]
+  },
+  {
+    "title": "Words Bubble Up Like Soda Pop",
+    "cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
+    "page": "WordsBubbleUp/wordsbubbleup.html",
+    "genre": ["Romance", "Music", "Slice of Life"]
+  },
+  {
+    "title": "The Night is Short, Walk on Girl",
+    "cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
+    "page": "NightShort/nightshort.html",
+    "genre": ["Comedy", "Romance", "Supernatural"]
+  },
+  {
+    "title": "In This Corner of the World",
+    "cover": "https://cdn.myanimelist.net/images/anime/9/85291.jpg",
+    "page": "ThisCornerWorld/thiscornerworld.html",
+    "genre": ["Drama", "Historical", "Slice of Life"]
+  },
+  {
+    "title": "Maquia: When the Promised Flower Blooms",
+    "cover": "https://cdn.myanimelist.net/images/anime/1792/111940.jpg",
+    "page": "Maquia/maquia.html",
+    "genre": ["Drama", "Fantasy", "Slice of Life"]
+  },
+  {
+    "title": "The Case of Hana & Alice",
+    "cover": "https://cdn.myanimelist.net/images/anime/12/75793.jpg",
+    "page": "HanaAlice/hanaalice.html",
+    "genre": ["Mystery", "Slice of Life", "Drama"]
+  },
+  {
+    "title": "Penguin Highway",
+    "cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
+    "page": "PenguinHighway/penguinhighway.html",
+    "genre": ["Sci-Fi", "Mystery", "Slice of Life"]
+  },
+  {
+    "title": "The Wonderland",
+    "cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
+    "page": "Wonderland/wonderland.html",
+    "genre": ["Adventure", "Fantasy", "Drama"]
+  },
+  {
+    "title": "On-Gaku: Our Sound",
+    "cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
+    "page": "OnGaku/ongaku.html",
+    "genre": ["Comedy", "Music", "Slice of Life"]
+  },
+  {
+    "title": "The House of the Lost on the Cape",
+    "cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
+    "page": "HouseLostCape/houselostcape.html",
+    "genre": ["Drama", "Fantasy", "Slice of Life"]
+  },
+  {
+    "title": "Fortune Favors Lady Nikuko",
+    "cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
+    "page": "Nikuko/nikuko.html",
+    "genre": ["Comedy", "Drama", "Slice of Life"]
+  },
+  {
+    "title": "Goodbye, Don Glees!",
+    "cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
+    "page": "DonGlees/donglees.html",
+    "genre": ["Adventure", "Drama", "Slice of Life"]
+  },
+  {
+    "title": "The Tunnel to Summer, the Exit of Goodbyes",
+    "cover": "https://cdn.myanimelist.net/images/anime/1949/111940.jpg",
+    "page": "TunnelSummer/tunnelsummer.html",
+    "genre": ["Drama", "Romance", "Sci-Fi"]
+  },
+  {
+    "title": "The Concierge",
+    "cover": "https://cdn.myanimelist.net/images/anime/1706/111940.jpg",
+    "page": "Concierge/concierge.html",
+    "genre": ["Fantasy", "Slice of Life", "Drama"]
+  },
+  {
+    "title": "Gold Kingdom and Water Kingdom",
+    "cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
+    "page": "GoldWaterKingdom/goldwaterkingdom.html",
+    "genre": ["Fantasy", "Romance", "Drama"]
+  },
+  {
+    "title": "The Imaginary",
+    "cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
+    "page": "Imaginary/imaginary.html",
+    "genre": ["Fantasy", "Adventure", "Drama"]
+  },
+  {
+    "title": "The Colors Within",
+    "cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
+    "page": "ColorsWithin/colorswithin.html",
+    "genre": ["Drama", "Slice of Life", "Supernatural"]
+  },
+  {
+    "title": "The Missing 8",
+    "cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
+    "page": "Missing8/missing8.html",
+    "genre": ["Mystery", "Thriller", "Drama"]
+  },
+  {
+    "title": "The Deer King",
+    "cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
+    "page": "DeerKing/deerking.html",
+    "genre": ["Fantasy", "Adventure", "Drama"]
+  },
+  {
+    "title": "The Birth of Kitaro",
+    "cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
+    "page": "Kitaro/kitaro.html",
+    "genre": ["Fantasy", "Horror", "Supernatural"]
+  },
+  {
+    "title": "The Great Yokai War: Guardians",
+    "cover": "https://cdn.myanimelist.net/images/anime/1949/111940.jpg",
+    "page": "YokaiWar/yokaiwar.html",
+    "genre": ["Fantasy", "Action", "Adventure"]
+  },
+  {
+    "title": "The Vampire Dies in No Time",
+    "cover": "https://cdn.myanimelist.net/images/anime/1706/111940.jpg",
+    "page": "VampireDies/vampiredies.html",
+    "genre": ["Comedy", "Supernatural", "Vampire"]
+  },
+  {
+    "title": "The Yakuza's Guide to Babysitting",
+    "cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
+    "page": "YakuzaBabysitting/yakuzababysitting.html",
+    "genre": ["Comedy", "Slice of Life", "Drama"]
+  },
+  {
+    "title": "The Angel Next Door Spoils Me Rotten",
+    "cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
+    "page": "AngelNextDoor/angelnextdoor.html",
+    "genre": ["Romance", "Slice of Life", "Drama"]
   }
 ]
