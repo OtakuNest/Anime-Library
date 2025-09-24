@@ -1,1514 +1,1982 @@
 [
-  {
-    "title": "Naruto",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
-    "page": "Naruto/naruto.html",
-    "genre": ["Action", "Adventure", "Shounen"]
-  },
-  {
-    "title": "One Piece",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
-    "page": "OnePiece/onepiece.html",
-    "genre": ["Action", "Adventure", "Fantasy"]
-  },
-  {
-    "title": "Attack on Titan",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
-    "page": "AttackOnTitan/aot.html",
-    "genre": ["Action", "Drama", "Fantasy"]
-  },
-  {
-    "title": "Your Name",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
-    "page": "YourName/yourname.html",
-    "genre": ["Romance", "Drama", "Supernatural"]
-  },
-  {
-    "title": "Death Note",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
-    "page": "DeathNote/deathnote.html",
-    "genre": ["Mystery", "Thriller", "Psychological"]
-  },
-  {
-    "title": "Demon Slayer",
-    "cover": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
-    "page": "DemonSlayer/demonslayer.html",
-    "genre": ["Action", "Fantasy", "Adventure"]
-  },
-  {
-    "title": "Jujutsu Kaisen",
-    "cover": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-    "page": "JujutsuKaisen/jujutsukaisen.html",
-    "genre": ["Action", "Supernatural", "Fantasy"]
-  },
-  {
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "cover": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
-    "page": "FMAB/fmab.html",
-    "genre": ["Action", "Adventure", "Drama"]
-  },
-  {
-    "title": "Tokyo Ghoul",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
-    "page": "TokyoGhoul/tokyoghoul.html",
-    "genre": ["Action", "Horror", "Supernatural"]
-  },
-  {
-    "title": "Clannad",
-    "cover": "https://cdn.myanimelist.net/images/anime/8/72315.jpg",
-    "page": "Clannad/clannad.html",
-    "genre": ["Drama", "Romance", "Slice of Life"]
-  },
-  {
-    "title": "Sword Art Online",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
-    "page": "SAO/sao.html",
-    "genre": ["Action", "Romance", "Fantasy"]
-  },
-  {
-    "title": "Bleach",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
-    "page": "Bleach/bleach.html",
-    "genre": ["Action", "Supernatural", "Adventure"]
-  },
-  {
-    "title": "Steins;Gate",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
-    "page": "SteinsGate/steinsgate.html",
-    "genre": ["Sci-Fi", "Thriller", "Drama"]
-  },
-  {
-    "title": "Dragon Ball Z",
-    "cover": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg",
-    "page": "DBZ/dbz.html",
-    "genre": ["Action", "Adventure", "Shounen"]
-  },
-  {
-    "title": "Fairy Tail",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
-    "page": "FairyTail/fairytail.html",
-    "genre": ["Action", "Fantasy", "Comedy"]
-  },
-  {
-    "title": "Hunter x Hunter",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
-    "page": "HxH/hxh.html",
-    "genre": ["Action", "Adventure", "Fantasy"]
-  },
-  {
-    "title": "Neon Genesis Evangelion",
-    "cover": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
-    "page": "NGE/nge.html",
-    "genre": ["Mecha", "Drama", "Psychological"]
-  },
-  {
-    "title": "Toradora!",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
-    "page": "Toradora/toradora.html",
-    "genre": ["Romance", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "Re:Zero",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/79410.jpg",
-    "page": "ReZero/rezero.html",
-    "genre": ["Fantasy", "Drama", "Psychological"]
-  },
-  {
-    "title": "Black Clover",
-    "cover": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
-    "page": "BlackClover/blackclover.html",
-    "genre": ["Action", "Fantasy", "Adventure"]
-  },
-  {
-    "title": "Code Geass: Lelouch of the Rebellion",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/50331.jpg",
-    "page": "CodeGeass/codegeass.html",
-    "genre": ["Action", "Mecha", "Drama"]
-  },
-  {
-    "title": "My Hero Academia",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
-    "page": "MHA/mha.html",
-    "genre": ["Action", "Comedy", "Shounen"]
-  },
-  {
-    "title": "Parasyte: The Maxim",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
-    "page": "Parasyte/parasyte.html",
-    "genre": ["Horror", "Action", "Psychological"]
-  },
-  {
-    "title": "Made in Abyss",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
-    "page": "MadeInAbyss/madeinabyss.html",
-    "genre": ["Adventure", "Drama", "Fantasy"]
-  },
-  {
-    "title": "Erased",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
-    "page": "Erased/erased.html",
-    "genre": ["Mystery", "Thriller", "Drama"]
-  },
-  {
-    "title": "Vivy: Fluorite Eye's Song",
-    "cover": "https://cdn.myanimelist.net/images/anime/1345/111384.jpg",
-    "page": "Vivy/vivy.html",
-    "genre": ["Sci-Fi", "Drama", "Music"]
-  },
-  {
-    "title": "The Rising of the Shield Hero",
-    "cover": "https://cdn.myanimelist.net/images/anime/1490/101278.jpg",
-    "page": "ShieldHero/shieldhero.html",
-    "genre": ["Action", "Adventure", "Fantasy"]
-  },
-  {
-    "title": "Akame ga Kill!",
-    "cover": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
-    "page": "AkameGaKill/akamegakill.html",
-    "genre": ["Action", "Drama", "Fantasy"]
-  },
-  {
-    "title": "Blue Exorcist",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-    "page": "BlueExorcist/blueexorcist.html",
-    "genre": ["Action", "Supernatural", "Fantasy"]
-  },
-  {
-    "title": "No Game No Life",
-    "cover": "https://cdn.myanimelist.net/images/anime/1074/111944.jpg",
-    "page": "NGNL/ngnl.html",
-    "genre": ["Fantasy", "Comedy", "Adventure"]
-  },
-  {
-    "title": "Dr. Stone",
-    "cover": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
-    "page": "DrStone/drstone.html",
-    "genre": ["Sci-Fi", "Adventure", "Shounen"]
-  },
-  {
-    "title": "The Seven Deadly Sins",
-    "cover": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
-    "page": "SevenDeadlySins/sevendeadlysins.html",
-    "genre": ["Action", "Adventure", "Fantasy"]
-  },
-  {
-    "title": "Psycho-Pass",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/43399.jpg",
-    "page": "PsychoPass/psychopass.html",
-    "genre": ["Sci-Fi", "Thriller", "Psychological"]
-  },
-  {
-    "title": "The Future Diary",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
-    "page": "FutureDiary/futurediary.html",
-    "genre": ["Thriller", "Mystery", "Psychological"]
-  },
-  {
-    "title": "Ergo Proxy",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/6393.jpg",
-    "page": "ErgoProxy/ergoproxy.html",
-    "genre": ["Sci-Fi", "Psychological", "Mystery"]
-  },
-  {
-    "title": "Howl's Moving Castle",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
-    "page": "HowlsMovingCastle/howlsmovingcastle.html",
-    "genre": ["Fantasy", "Romance", "Adventure"]
-  },
-  {
-    "title": "Mob Psycho 100",
-    "cover": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
-    "page": "MobPsycho/mobpsycho.html",
-    "genre": ["Action", "Comedy", "Supernatural"]
-  },
-  {
-    "title": "Akira",
-    "cover": "https://cdn.myanimelist.net/images/anime/2/82596.jpg",
-    "page": "Akira/akira.html",
-    "genre": ["Action", "Sci-Fi", "Drama"]
-  },
-  {
-    "title": "Cowboy Bebop",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
-    "page": "CowboyBebop/cowboybebop.html",
-    "genre": ["Action", "Sci-Fi", "Adventure"]
-  },
-  {
-    "title": "Samurai Champloo",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/22729.jpg",
-    "page": "SamuraiChamploo/samuraichamploo.html",
-    "genre": ["Action", "Adventure", "Historical"]
-  },
-  {
-    "title": "Great Teacher Onizuka",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
-    "page": "GTO/gto.html",
-    "genre": ["Comedy", "Drama", "School"]
-  },
-  {
-    "title": "Angel Beats!",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/22062.jpg",
-    "page": "AngelBeats/angelbeats.html",
-    "genre": ["Drama", "Supernatural", "Comedy"]
-  },
-  {
-    "title": "Anohana: The Flower We Saw That Day",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
-    "page": "Anohana/anohana.html",
-    "genre": ["Drama", "Slice of Life", "Supernatural"]
-  },
-  {
-    "title": "March Comes in Like a Lion",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/82890.jpg",
-    "page": "MarchLion/marchlion.html",
-    "genre": ["Drama", "Slice of Life"]
-  },
-  {
-    "title": "The Garden of Words",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/49571.jpg",
-    "page": "GardenOfWords/gardenofwords.html",
-    "genre": ["Romance", "Drama", "Slice of Life"]
-  },
-  {
-    "title": "KonoSuba",
-    "cover": "https://cdn.myanimelist.net/images/anime/8/77831.jpg",
-    "page": "Konosuba/konosuba.html",
-    "genre": ["Comedy", "Fantasy", "Adventure"]
-  },
-  {
-    "title": "Gintama",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
-    "page": "Gintama/gintama.html",
-    "genre": ["Action", "Comedy", "Sci-Fi"]
-  },
-  {
-    "title": "Paranoia Agent",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
-    "page": "ParanoiaAgent/paranoiaagent.html",
-    "genre": ["Psychological", "Mystery", "Thriller"]
-  },
-  {
-    "title": "Baccano!",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/50397.jpg",
-    "page": "Baccano/baccano.html",
-    "genre": ["Action", "Mystery", "Supernatural"]
-  },
-  {
-    "title": "The Melancholy of Haruhi Suzumiya",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/75246.jpg",
-    "page": "Haruhi/haruhi.html",
-    "genre": ["Comedy", "Slice of Life", "Supernatural"]
-  },
-  {
-    "title": "Elfen Lied",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
-    "page": "ElfenLied/elfenlied.html",
-    "genre": ["Drama", "Horror", "Psychological"]
-  },
-  {
-    "title": "Spirited Away",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
-    "page": "SpiritedAway/spiritedaway.html",
-    "genre": ["Adventure", "Supernatural", "Drama"]
-  },
-  {
-    "title": "Black Lagoon",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/21435.jpg",
-    "page": "BlackLagoon/blacklagoon.html",
-    "genre": ["Action", "Seinen"]
-  },
-  {
-    "title": "Hellsing Ultimate",
-    "cover": "https://cdn.myanimelist.net/images/anime/7/28394.jpg",
-    "page": "HellsingUltimate/hellsingultimate.html",
-    "genre": ["Action", "Supernatural", "Horror"]
-  },
-  {
-    "title": "Highschool of the Dead",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/25241.jpg",
-    "page": "HSOTD/hsotd.html",
-    "genre": ["Action", "Horror", "Ecchi"]
-  },
-  {
-    "title": "Kono Oto Tomare!",
-    "cover": "https://cdn.myanimelist.net/images/anime/1140/100990.jpg",
-    "page": "KonoOtoTomare/konooto.html",
-    "genre": ["Drama", "Music", "School"]
-  },
-  {
-    "title": "Barakamon",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
-    "page": "Barakamon/barakamon.html",
-    "genre": ["Comedy", "Slice of Life"]
-  },
-  {
-    "title": "Chihayafuru",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/75538.jpg",
-    "page": "Chihayafuru/chihayafuru.html",
-    "genre": ["Drama", "Romance", "Sports"]
-  },
-  {
-    "title": "Nana",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/8706.jpg",
-    "page": "Nana/nana.html",
-    "genre": ["Drama", "Romance", "Music"]
-  },
-  {
-    "title": "Beastars",
-    "cover": "https://cdn.myanimelist.net/images/anime/1861/103276.jpg",
-    "page": "Beastars/beastars.html",
-    "genre": ["Drama", "Psychological", "Slice of Life"]
-  },
-  {
-    "title": "Kaguya-sama: Love is War",
-    "cover": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
-    "page": "KaguyaSama/kaguya.html",
-    "genre": ["Comedy", "Psychological", "Romance"]
-  },
-  {
-    "title": "The Pet Girl of Sakurasou",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/43641.jpg",
-    "page": "Sakurasou/sakurasou.html",
-    "genre": ["Comedy", "Romance", "Drama"]
-  },
-  {
-    "title": "One Punch Man",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/75195.jpg",
-    "page": "OnePunchMan/onepunchman.html",
-    "genre": ["Action", "Comedy", "Super Power"]
-  },
-  {
-    "title": "Monster",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
-    "page": "Monster/monster.html",
-    "genre": ["Mystery", "Thriller", "Psychological"]
-  },
-  {
-    "title": "Vinland Saga",
-    "cover": "https://cdn.myanimelist.net/images/anime/1502/123659.jpg",
-    "page": "VinlandSaga/vinlandsaga.html",
-    "genre": ["Action", "Historical", "Drama"]
-  },
-  {
-    "title": "Yu Yu Hakusho",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/22002.jpg",
-    "page": "YuYuHakusho/yuyuhakusho.html",
-    "genre": ["Action", "Supernatural", "Martial Arts"]
-  },
-  {
-    "title": "Berserk",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/15726.jpg",
-    "page": "Berserk/berserk.html",
-    "genre": ["Dark Fantasy", "Action", "Horror"]
-  },
-  {
-    "title": "Tengen Toppa Gurren Lagann",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
-    "page": "GurrenLagann/gurrenlagann.html",
-    "genre": ["Mecha", "Action", "Sci-Fi"]
-  },
-  {
-    "title": "Assassination Classroom",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
-    "page": "AssassinationClassroom/assassinationclassroom.html",
-    "genre": ["Action", "Comedy", "School"]
-  },
-  {
-    "title": "Haikyuu!!",
-    "cover": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
-    "page": "Haikyuu/haikyuu.html",
-    "genre": ["Sports", "Drama", "School"]
-  },
-  {
-    "title": "Fire Force",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/92105.jpg",
-    "page": "FireForce/fireforce.html",
-    "genre": ["Action", "Supernatural", "Adventure"]
-  },
-  {
-    "title": "That Time I Got Reincarnated as a Slime",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/100798.jpg",
-    "page": "TenseiSlime/thattimegotreincarnatedasslime.html",
-    "genre": ["Fantasy", "Isekai", "Adventure"]
-  },
-  {
-    "title": "Fruits Basket (2019)",
-    "cover": "https://cdn.myanimelist.net/images/anime/1085/111121.jpg",
-    "page": "FruitsBasket/fruitsbasket.html",
-    "genre": ["Romance", "Supernatural", "Slice of Life"]
-  },
-  {
-    "title": "K-On!",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
-    "page": "KOn/kon.html",
-    "genre": ["Music", "Slice of Life", "Comedy"]
-  },
-  {
-    "title": "Fate/Zero",
-    "cover": "https://cdn.myanimelist.net/images/anime/2/73249.jpg",
-    "page": "FateZero/fatezero.html",
-    "genre": ["Action", "Supernatural", "Drama"]
-  },
-  {
-    "title": "Violet Evergarden",
-    "cover": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
-    "page": "VioletEvergarden/violetergarden.html",
-    "genre": ["Drama", "Fantasy", "Slice of Life"]
-  },
-  {
-    "title": "The Promised Neverland",
-    "cover": "https://cdn.myanimelist.net/images/anime/1785/104617.jpg",
-    "page": "PromisedNeverland/promisedneverland.html",
-    "genre": ["Thriller", "Mystery", "Horror"]
-  },
-  {
-    "title": "JoJo's Bizarre Adventure",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
-    "page": "JoJo/jojo.html",
-    "genre": ["Action", "Adventure", "Supernatural"]
-  },
-  {
-    "title": "Overlord",
-    "cover": "https://cdn.myanimelist.net/images/anime/7/88019.jpg",
-    "page": "Overlord/overlord.html",
-    "genre": ["Fantasy", "Isekai", "Action"]
-  },
-  {
-    "title": "Food Wars! (Shokugeki no Soma)",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/76699.jpg",
-    "page": "FoodWars/foodwars.html",
-    "genre": ["Comedy", "Ecchi", "Cooking"]
-  },
-  {
-    "title": "My Teen Romantic Comedy SNAFU",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/75228.jpg",
-    "page": "SNAFU/myteenromcomsnafu.html",
-    "genre": ["Romance", "Comedy", "School"]
-  },
-  {
-    "title": "Madoka Magica (Puella Magi Madoka Magica)",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
-    "page": "MadokaMagica/madokamagica.html",
-    "genre": ["Magical Girl", "Drama", "Dark Fantasy"]
-  },
-  {
-    "title": "Your Lie in April",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/67177.jpg",
-    "page": "YourLieInApril/yourlieinapril.html",
-    "genre": ["Drama", "Music", "Romance"]
-  },
-  {
-    "title": "Kuroko's Basketball",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/59475.jpg",
-    "page": "KurokoBasketball/kurokobasketball.html",
-    "genre": ["Sports", "Drama", "School"]
-  },
-  {
-    "title": "Magi: The Labyrinth of Magic",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/43673.jpg",
-    "page": "Magi/magi.html",
-    "genre": ["Adventure", "Fantasy", "Action"]
-  },
-  {
-    "title": "Darkside Blues",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/23605.jpg",
-    "page": "DarksideBlues/darksideblues.html",
-    "genre": ["Sci-Fi", "Action", "Psychological"]
-  },
-  {
-    "title": "Dororo",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/88193.jpg",
-    "page": "Dororo/dororo.html",
-    "genre": ["Action", "Demons", "Adventure"]
-  },
-  {
-    "title": "Goblin Slayer",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/89757.jpg",
-    "page": "GoblinSlayer/goblinslayer.html",
-    "genre": ["Dark Fantasy", "Action", "Adventure"]
-  },
-  {
-    "title": "ReLIFE",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
-    "page": "ReLIFE/relife.html",
-    "genre": ["Drama", "Romance", "Slice of Life"]
-  },
-  {
-    "title": "Darling in the FranXX",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/96007.jpg",
-    "page": "DarlingInTheFranXX/darlinginthefranxx.html",
-    "genre": ["Sci-Fi", "Mecha", "Romance"]
-  },
-  {
-    "title": "Soul Eater",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/7804.jpg",
-    "page": "SoulEater/souleater.html",
-    "genre": ["Action", "Fantasy", "Supernatural"]
-  },
-  {
-    "title": "Kill la Kill",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/98839.jpg",
-    "page": "KillLaKill/killlakill.html",
-    "genre": ["Action", "Comedy", "Super Power"]
-  },
-  {
-    "title": "Black Bullet",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/60443.jpg",
-    "page": "BlackBullet/blackbullet.html",
-    "genre": ["Action", "Sci-Fi", "Supernatural"]
-  },
-  {
-    "title": "Zankyou no Terror (Terror in Resonance)",
-    "cover": "https://cdn.myanimelist.net/images/anime/7/64277.jpg",
-    "page": "TerrorResonance/terrorresonance.html",
-    "genre": ["Thriller", "Mystery", "Psychological"]
-  },
-  {
-    "title": "Noragami Aragoto",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/76059.jpg",
-    "page": "NoragamiAragoto/noragamiaragoto.html",
-    "genre": ["Action", "Supernatural", "Comedy"]
-  },
-  {
-    "title": "Ergo Proxy: Special",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/7311.jpg",
-    "page": "ErgoProxySpecial/ergoproxyspecial.html",
-    "genre": ["Sci-Fi", "Mystery", "Psychological"]
-  },
-  {
-    "title": "Bakuman.",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-    "page": "Bakuman/bakuman.html",
-    "genre": ["Comedy", "Drama", "Romance"]
-  },
-  {
-    "title": "Shaman King (2021)",
-    "cover": "https://cdn.myanimelist.net/images/anime/1766/111823.jpg",
-    "page": "ShamanKing/shamanking.html",
-    "genre": ["Action", "Supernatural", "Adventure"]
-  },
-  {
-    "title": "Hajime no Ippo",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/48471.jpg",
-    "page": "HajimeNoIppo/hajimenoippo.html",
-    "genre": ["Sports", "Action", "Drama"]
-  },
-  {
-    "title": "Initial D",
-    "cover": "https://cdn.myanimelist.net/images/anime/7/6807.jpg",
-    "page": "InitialD/initiald.html",
-    "genre": ["Sports", "Action", "Cars"]
-  },
-  {
-    "title": "Golden Kamuy",
-    "cover": "https://cdn.myanimelist.net/images/anime/1286/93532.jpg",
-    "page": "GoldenKamuy/goldenkamuy.html",
-    "genre": ["Action", "Adventure", "Historical"]
-  },
-  {
-    "title": "Akashic Records of Bastard Magic Instructor",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/84528.jpg",
-    "page": "AkashicRecords/akashicrecords.html",
-    "genre": ["Fantasy", "Magic", "School"]
-  },
-  {
-    "title": "Trinity Seven",
-    "cover": "https://cdn.myanimelist.net/images/anime/8/64225.jpg",
-    "page": "TrinitySeven/trinityseven.html",
-    "genre": ["Fantasy", "Comedy", "Harem"]
-  },
-  {
-    "title": "Black★Rock Shooter",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/37389.jpg",
-    "page": "BlackRockShooter/blackrockshooter.html",
-    "genre": ["Action", "Drama", "Fantasy"]
-  },
-  {
-    "title": "Owari no Seraph (Seraph of the End)",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/73474.jpg",
-    "page": "OwariNoSeraph/owarinoseraph.html",
-    "genre": ["Action", "Supernatural", "Drama"]
-  },
-  {
-    "title": "Deadman Wonderland",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
-    "page": "DeadmanWonderland/deadmanwonderland.html",
-    "genre": ["Action", "Horror", "Sci-Fi"]
-  },
-  {
-    "title": "High School DxD",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/71091.jpg",
-    "page": "HighSchoolDxD/highschooldxd.html",
-    "genre": ["Action", "Comedy", "Ecchi"]
-  },
-  {
-    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/76031.jpg",
-    "page": "DanMachi/danmachi.html",
-    "genre": ["Fantasy", "Adventure", "Romance"]
-  },
-  {
-    "title": "Plastic Memories",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/72943.jpg",
-    "page": "PlasticMemories/plasticmemories.html",
-    "genre": ["Sci-Fi", "Drama", "Romance"]
-  },
-  {
-    "title": "Erased: Special",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
-    "page": "ErasedSpecial/erasedspecial.html",
-    "genre": ["Mystery", "Thriller", "Drama"]
-  },
-  {
-    "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/76091.jpg",
-    "page": "Gate/gate.html",
-    "genre": ["Action", "Fantasy", "Military"]
-  },
-  {
-    "title": "C: The Money of Soul and Possibility Control",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/30451.jpg",
-    "page": "CControl/ccontrol.html",
-    "genre": ["Action", "Supernatural", "Thriller"]
-  },
-  {
-    "title": "Alderamin on the Sky",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
-    "page": "Alderamin/alderamin.html",
-    "genre": ["Action", "Fantasy", "Military"]
-  },
-  {
-    "title": "Air Gear",
-    "cover": "https://cdn.myanimelist.net/images/anime/2/75835.jpg",
-    "page": "AirGear/airgear.html",
-    "genre": ["Action", "Sports", "Comedy"]
-  },
-  {
-    "title": "Kekkai Sensen (Blood Blockade Battlefront)",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/76123.jpg",
-    "page": "KekkaiSensen/kekkai.html",
-    "genre": ["Action", "Supernatural", "Comedy"]
-  },
-  {
-    "title": "D.Gray-man",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
-    "page": "DGrayMan/dgrayman.html",
-    "genre": ["Action", "Adventure", "Supernatural"]
-  },
-  {
-    "title": "Rokka: Braves of the Six Flowers",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/75195.jpg",
-    "page": "Rokka/rokka.html",
-    "genre": ["Fantasy", "Action", "Mystery"]
-  },
-  {
-    "title": "Zetsuen no Tempest",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/42203.jpg",
-    "page": "ZetsuenNoTempest/zetsuennotempest.html",
-    "genre": ["Fantasy", "Mystery", "Drama"]
-  },
-  {
-    "title": "Guilty Crown",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/33713.jpg",
-    "page": "GuiltyCrown/guiltycrown.html",
-    "genre": ["Action", "Sci-Fi", "Drama"]
-  },
-  {
-    "title": "Kabaneri of the Iron Fortress",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/79164.jpg",
-    "page": "Kabaneri/kabaneri.html",
-    "genre": ["Action", "Horror", "Steampunk"]
-  },
-  {
-    "title": "Kiznaiver",
-    "cover": "https://cdn.myanimelist.net/images/anime/8/79460.jpg",
-    "page": "Kiznaiver/kiznaiver.html",
-    "genre": ["Sci-Fi", "Drama", "Psychological"]
-  },
-  {
-    "title": "91 Days",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/80817.jpg",
-    "page": "91Days/91days.html",
-    "genre": ["Action", "Drama", "Historical"]
-  },
-  {
-    "title": "Gangsta.",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/73559.jpg",
-    "page": "Gangsta/gangsta.html",
-    "genre": ["Action", "Drama", "Seinen"]
-  },
-  {
-    "title": "Charlotte",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/74683.jpg",
-    "page": "Charlotte/charlotte.html",
-    "genre": ["Supernatural", "Drama", "School"]
-  },
-  {
-    "title": "Katanagatari",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/71899.jpg",
-    "page": "Katanagatari/katanagatari.html",
-    "genre": ["Action", "Adventure", "Historical"]
-  },
-  {
-    "title": "Hyouka",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
-    "page": "Hyouka/hyouka.html",
-    "genre": ["Mystery", "Slice of Life", "School"]
-  },
-  {
-    "title": "The Devil is a Part-Timer!",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/44877.jpg",
-    "page": "DevilPartTimer/devilparttimer.html",
-    "genre": ["Comedy", "Fantasy", "Supernatural"]
-  },
-  {
-    "title": "Log Horizon",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/84004.jpg",
-    "page": "LogHorizon/loghorizon.html",
-    "genre": ["Fantasy", "Adventure", "Strategy"]
-  },
-  {
-    "title": "Amagi Brilliant Park",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/67033.jpg",
-    "page": "AmagiBrilliantPark/amagibrilliantpark.html",
-    "genre": ["Comedy", "Fantasy", "Slice of Life"]
-  },
-  {
-    "title": "No.6",
-    "cover": "https://cdn.myanimelist.net/images/anime/3/32873.jpg",
-    "page": "No6/no6.html",
-    "genre": ["Sci-Fi", "Mystery", "Drama"]
-  },
-  {
-    "title": "Another",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
-    "page": "Another/another.html",
-    "genre": ["Horror", "Mystery", "Thriller"]
-  },
-  {
-    "title": "Btooom!",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/39473.jpg",
-    "page": "Btooom/btooom.html",
-    "genre": ["Action", "Thriller", "Psychological"]
-  },
-  {
-    "title": "Mirai Nikki (The Future Diary)",
-    "cover": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
-    "page": "MiraiNikki/mirainikki.html",
-    "genre": ["Thriller", "Mystery", "Psychological"]
-  },
-  {
-    "title": "K Project",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/74259.jpg",
-    "page": "KProject/kproject.html",
-    "genre": ["Action", "Supernatural", "Drama"]
-  },
-  {
-    "title": "Beyond the Boundary",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/56341.jpg",
-    "page": "BeyondBoundary/beyondboundary.html",
-    "genre": ["Fantasy", "Drama", "Supernatural"]
-  },
-  {
-    "title": "The Irregular at Magic High School",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/61039.jpg",
-    "page": "Mahouka/mahouka.html",
-    "genre": ["Fantasy", "Magic", "School"]
-  },
-  {
-    "title": "Saga of Tanya the Evil",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
-    "page": "TanyaEvil/tanyaevil.html",
-    "genre": ["Action", "Fantasy", "Military"]
-  },
-  {
-    "title": "Grimgar of Fantasy and Ash",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
-    "page": "Grimgar/grimgar.html",
-    "genre": ["Fantasy", "Drama", "Adventure"]
-  },
-  {
-    "title": "Arslan Senki (The Heroic Legend of Arslan)",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/73588.jpg",
-    "page": "ArslanSenki/arslansenki.html",
-    "genre": ["Action", "Adventure", "Historical"]
-  },
-  {
-    "title": "The Asterisk War",
-    "cover": "https://cdn.myanimelist.net/images/anime/10/76493.jpg",
-    "page": "AsteriskWar/asteriskwar.html",
-    "genre": ["Action", "Fantasy", "School"]
-  },
-  {
-    "title": "Chivalry of a Failed Knight",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/76014.jpg",
-    "page": "ChivalryFailedKnight/chivalryfailedknight.html",
-    "genre": ["Action", "Fantasy", "Romance"]
-  },
-  {
-    "title": "Classroom of the Elite",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/86830.jpg",
-    "page": "ClassroomElite/classroomelite.html",
-    "genre": ["Drama", "Psychological", "School"]
-  },
-  {
-    "title": "Masamune-kun's Revenge",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/83388.jpg",
-    "page": "MasamuneRevenge/masamunerevenge.html",
-    "genre": ["Comedy", "Romance", "School"]
-  },
-  {
-    "title": "Scum's Wish",
-    "cover": "https://cdn.myanimelist.net/images/anime/2/83366.jpg",
-    "page": "ScumsWish/scumswish.html",
-    "genre": ["Drama", "Romance", "Psychological"]
-  },
-  {
-    "title": "Tsuki ga Kirei",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/85469.jpg",
-    "page": "TsukiGaKirei/tsukigakirei.html",
-    "genre": ["Romance", "Drama", "Slice of Life"]
-  },
-  {
-    "title": "Just Because!",
-    "cover": "https://cdn.myanimelist.net/images/anime/4/88333.jpg",
-    "page": "JustBecause/justbecause.html",
-    "genre": ["Drama", "Romance", "Slice of Life"]
-  },
-  {
-    "title": "A Place Further Than the Universe",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/89879.jpg",
-    "page": "PlaceFurtherUniverse/placefurtheruniverse.html",
-    "genre": ["Adventure", "Slice of Life", "Drama"]
-  },
-  {
-    "title": "Hinamatsuri",
-    "cover": "https://cdn.myanimelist.net/images/anime/1861/93689.jpg",
-    "page": "Hinamatsuri/hinamatsuri.html",
-    "genre": ["Comedy", "Sci-Fi", "Slice of Life"]
-  },
-  {
-    "title": "Grand Blue",
-    "cover": "https://cdn.myanimelist.net/images/anime/1292/95078.jpg",
-    "page": "GrandBlue/grandblue.html",
-    "genre": ["Comedy", "Slice of Life", "Seinen"]
-  },
-  {
-    "title": "Wotakoi: Love is Hard for Otaku",
-    "cover": "https://cdn.myanimelist.net/images/anime/1869/93689.jpg",
-    "page": "Wotakoi/wotakoi.html",
-    "genre": ["Romance", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
-    "cover": "https://cdn.myanimelist.net/images/anime/1308/93598.jpg",
-    "page": "BunnyGirlSenpai/bunnygirlsenpai.html",
-    "genre": ["Romance", "Supernatural", "Drama"]
-  },
-  {
-    "title": "Bloom Into You",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/93598.jpg",
-    "page": "BloomIntoYou/bloomintoyou.html",
-    "genre": ["Romance", "Drama", "School"]
-  },
-  {
-    "title": "The Quintessential Quintuplets",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/110808.jpg",
-    "page": "QuintessentialQuintuplets/quintuplets.html",
-    "genre": ["Romance", "Comedy", "Harem"]
-  },
-  {
-    "title": "Domestic Girlfriend",
-    "cover": "https://cdn.myanimelist.net/images/anime/1290/111940.jpg",
-    "page": "DomesticGirlfriend/domesticgirlfriend.html",
-    "genre": ["Drama", "Romance", "School"]
-  },
-  {
-    "title": "We Never Learn",
-    "cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
-    "page": "WeNeverLearn/weneverlearn.html",
-    "genre": ["Comedy", "Romance", "Harem"]
-  },
-  {
-    "title": "The Helpful Fox Senko-san",
-    "cover": "https://cdn.myanimelist.net/images/anime/1954/111940.jpg",
-    "page": "SenkoSan/senkosan.html",
-    "genre": ["Comedy", "Supernatural", "Slice of Life"]
-  },
-  {
-    "title": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
-    "cover": "https://cdn.myanimelist.net/images/anime/1035/111940.jpg",
-    "page": "Mamahits/mamahits.html",
-    "genre": ["Comedy", "Fantasy", "Isekai"]
-  },
-  {
-    "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
-    "cover": "https://cdn.myanimelist.net/images/anime/1614/111940.jpg",
-    "page": "CautiousHero/cautioushero.html",
-    "genre": ["Comedy", "Fantasy", "Isekai"]
-  },
-  {
-    "title": "Ascendance of a Bookworm",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
-    "page": "Bookworm/bookworm.html",
-    "genre": ["Fantasy", "Slice of Life", "Isekai"]
-  },
-  {
-    "title": "To Your Eternity",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/110457.jpg",
-    "page": "ToYourEternity/toyoureternity.html",
-    "genre": ["Fantasy", "Drama", "Adventure"]
-  },
-  {
-    "title": "The Misfit of Demon King Academy",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/108005.jpg",
-    "page": "MisfitDemonKing/misfitdemonking.html",
-    "genre": ["Fantasy", "Comedy", "Action"]
-  },
-  {
-    "title": "Mushoku Tensei: Jobless Reincarnation",
-    "cover": "https://cdn.myanimelist.net/images/anime/1908/119089.jpg",
-    "page": "MushokuTensei/mushokutensei.html",
-    "genre": ["Fantasy", "Drama", "Isekai"]
-  },
-  {
-    "title": "So I'm a Spider, So What?",
-    "cover": "https://cdn.myanimelist.net/images/anime/1792/111940.jpg",
-    "page": "SpiderSoWhat/spidersowhat.html",
-    "genre": ["Fantasy", "Comedy", "Isekai"]
-  },
-  {
-    "title": "The Hidden Dungeon Only I Can Enter",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
-    "page": "HiddenDungeon/hiddendungeon.html",
-    "genre": ["Fantasy", "Comedy", "Romance"]
-  },
-  {
-    "title": "Bottom-tier Character Tomozaki",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
-    "page": "Tomozaki/tomozaki.html",
-    "genre": ["Drama", "Slice of Life", "School"]
-  },
-  {
-    "title": "Horimiya",
-    "cover": "https://cdn.myanimelist.net/images/anime/1248/111940.jpg",
-    "page": "Horimiya/horimiya.html",
-    "genre": ["Romance", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "Wonder Egg Priority",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
-    "page": "WonderEgg/wonderegg.html",
-    "genre": ["Drama", "Psychological", "Fantasy"]
-  },
-  {
-    "title": "Vivy: Fluorite Eye's Song - Special",
-    "cover": "https://cdn.myanimelist.net/images/anime/1345/111384.jpg",
-    "page": "VivySpecial/vivyspecial.html",
-    "genre": ["Sci-Fi", "Drama", "Music"]
-  },
-  {
-    "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
-    "cover": "https://cdn.myanimelist.net/images/anime/1911/117637.jpg",
-    "page": "FinestAssassin/finestassassin.html",
-    "genre": ["Fantasy", "Action", "Isekai"]
-  },
-  {
-    "title": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/117637.jpg",
-    "page": "BanishedHero/banishedhero.html",
-    "genre": ["Fantasy", "Romance", "Slice of Life"]
-  },
-  {
-    "title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
-    "cover": "https://cdn.myanimelist.net/images/anime/1949/117637.jpg",
-    "page": "GeniusPrince/geniusprince.html",
-    "genre": ["Fantasy", "Comedy", "Drama"]
-  },
-  {
-    "title": "Sasaki and Miyano",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/117637.jpg",
-    "page": "SasakiMiyano/sasakimiyano.html",
-    "genre": ["Romance", "Slice of Life", "School"]
-  },
-  {
-    "title": "Love After World Domination",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/117637.jpg",
-    "page": "LoveWorldDomination/loveworlddomination.html",
-    "genre": ["Comedy", "Romance", "Superhero"]
-  },
-  {
-    "title": "Shikimori's Not Just a Cutie",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/117637.jpg",
-    "page": "Shikimori/shikimori.html",
-    "genre": ["Romance", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "When Will Ayumu Make His Move?",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/117637.jpg",
-    "page": "Ayumu/ayumu.html",
-    "genre": ["Comedy", "Romance", "School"]
-  },
-  {
-    "title": "Call of the Night",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/125392.jpg",
-    "page": "CallOfTheNight/callofthenight.html",
-    "genre": ["Supernatural", "Romance", "Drama"]
-  },
-  {
-    "title": "Lycoris Recoil",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/125392.jpg",
-    "page": "LycorisRecoil/lycorisrecoil.html",
-    "genre": ["Action", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "Bocchi the Rock!",
-    "cover": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg",
-    "page": "BocchiTheRock/bocchitherock.html",
-    "genre": ["Comedy", "Music", "Slice of Life"]
-  },
-  {
-    "title": "Chainsaw Man",
-    "cover": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
-    "page": "ChainsawMan/chainsawman.html",
-    "genre": ["Action", "Horror", "Supernatural"]
-  },
-  {
-    "title": "Spy x Family",
-    "cover": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
-    "page": "SpyXFamily/spyfamily.html",
-    "genre": ["Action", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "Blue Lock",
-    "cover": "https://cdn.myanimelist.net/images/anime/1236/127956.jpg",
-    "page": "BlueLock/bluelock.html",
-    "genre": ["Sports", "Psychological", "Drama"]
-  },
-  {
-    "title": "Oshi no Ko",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/134237.jpg",
-    "page": "OshiNoKo/oshinoko.html",
-    "genre": ["Drama", "Supernatural", "Music"]
-  },
-  {
-    "title": "Hell's Paradise",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/134237.jpg",
-    "page": "HellsParadise/hellsparadise.html",
-    "genre": ["Action", "Fantasy", "Horror"]
-  },
-  {
-    "title": "Zom 100: Bucket List of the Dead",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/134237.jpg",
-    "page": "Zom100/zom100.html",
-    "genre": ["Comedy", "Horror", "Zombie"]
-  },
-  {
-    "title": "Frieren: Beyond Journey's End",
-    "cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-    "page": "Frieren/frieren.html",
-    "genre": ["Fantasy", "Adventure", "Drama"]
-  },
-  {
-    "title": "The Apothecary Diaries",
-    "cover": "https://cdn.myanimelist.net/images/anime/1706/138006.jpg",
-    "page": "ApothecaryDiaries/apothecarydiaries.html",
-    "genre": ["Mystery", "Historical", "Drama"]
-  },
-  {
-    "title": "Solo Leveling",
-    "cover": "https://cdn.myanimelist.net/images/anime/1949/138006.jpg",
-    "page": "SoloLeveling/sololeveling.html",
-    "genre": ["Action", "Fantasy", "Adventure"]
-  },
-  {
-    "title": "The Dangers in My Heart",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/138006.jpg",
-    "page": "DangersInMyHeart/dangersinmyheart.html",
-    "genre": ["Romance", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/138006.jpg",
-    "page": "100Girlfriends/100girlfriends.html",
-    "genre": ["Comedy", "Romance", "Harem"]
-  },
-  {
-    "title": "The Unwanted Undead Adventurer",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/138006.jpg",
-    "page": "UndeadAdventurer/undeadadventurer.html",
-    "genre": ["Fantasy", "Adventure", "Drama"]
-  },
-  {
-    "title": "Sengoku Youko",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/138006.jpg",
-    "page": "SengokuYouko/sengokuyouko.html",
-    "genre": ["Action", "Fantasy", "Historical"]
-  },
-  {
-    "title": "The Wrong Way to Use Healing Magic",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/138006.jpg",
-    "page": "HealingMagic/healingmagic.html",
-    "genre": ["Fantasy", "Comedy", "Action"]
-  },
-  {
-    "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
-    "cover": "https://cdn.myanimelist.net/images/anime/1949/138006.jpg",
-    "page": "7thTimeLoop/7thtimeloop.html",
-    "genre": ["Fantasy", "Romance", "Drama"]
-  },
-  {
-    "title": "The Weakest Tamer Began a Journey to Pick Up Trash",
-    "cover": "https://cdn.myanimelist.net/images/anime/1706/138006.jpg",
-    "page": "WeakestTamer/weakesttamer.html",
-    "genre": ["Fantasy", "Adventure", "Slice of Life"]
-  },
-  {
-    "title": "Sasaki and Peeps",
-    "cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-    "page": "SasakiPeeps/sasakipeeps.html",
-    "genre": ["Fantasy", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "The Foolish Angel Dances with the Devil",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/138006.jpg",
-    "page": "FoolishAngel/foolishangel.html",
-    "genre": ["Comedy", "Romance", "Supernatural"]
-  },
-  {
-    "title": "Chained Soldier",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/138006.jpg",
-    "page": "ChainedSoldier/chainedsoldier.html",
-    "genre": ["Action", "Fantasy", "Ecchi"]
-  },
-  {
-    "title": "Hokkaido Gals Are Super Adorable!",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/138006.jpg",
-    "page": "HokkaidoGals/hokkaidogals.html",
-    "genre": ["Romance", "Comedy", "Slice of Life"]
-  },
-  {
-    "title": "Mr. Villain's Day Off",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/138006.jpg",
-    "page": "VillainDayOff/villaindayoff.html",
-    "genre": ["Comedy", "Slice of Life", "Supernatural"]
-  },
-  {
-    "title": "The Witch and the Beast",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/138006.jpg",
-    "page": "WitchBeast/witchbeast.html",
-    "genre": ["Fantasy", "Action", "Mystery"]
-  },
-  {
-    "title": "Metallic Rouge",
-    "cover": "https://cdn.myanimelist.net/images/anime/1949/138006.jpg",
-    "page": "MetallicRouge/metallicrouge.html",
-    "genre": ["Sci-Fi", "Action", "Mystery"]
-  },
-  {
-    "title": "Bang Brave Bang Bravern",
-    "cover": "https://cdn.myanimelist.net/images/anime/1706/138006.jpg",
-    "page": "BraveBravern/bravebravern.html",
-    "genre": ["Mecha", "Action", "Sci-Fi"]
-  },
-  {
-    "title": "The Fire Hunter",
-    "cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
-    "page": "FireHunter/firehunter.html",
-    "genre": ["Fantasy", "Adventure", "Drama"]
-  },
-  {
-    "title": "The Demon Prince of Momochi House",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/138006.jpg",
-    "page": "MomochiHouse/momochihouse.html",
-    "genre": ["Fantasy", "Romance", "Supernatural"]
-  },
-  {
-    "title": "A Sign of Affection",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/138006.jpg",
-    "page": "SignAffection/signaffection.html",
-    "genre": ["Romance", "Drama", "Slice of Life"]
-  },
-  {
-    "title": "Sengoku Youko: The Thousand Year Fox",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/138006.jpg",
-    "page": "SengokuYouko2/sengokuyouko2.html",
-    "genre": ["Action", "Fantasy", "Historical"]
-  },
-  {
-    "title": "The Unwanted Undead Adventurer: Second Journey",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/138006.jpg",
-    "page": "UndeadAdventurer2/undeadadventurer2.html",
-    "genre": ["Fantasy", "Adventure", "Drama"]
-  },
-  {
-    "title": "The Weakest Tamer's Journey Continues",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/138006.jpg",
-    "page": "WeakestTamer2/weakesttamer2.html",
-    "genre": ["Fantasy", "Adventure", "Slice of Life"]
-  },
-  {
-    "title": "A Certain Magical Index",
-    "cover": "https://cdn.myanimelist.net/images/anime/5/75633.jpg",
-    "page": "Index/index.html",
-    "genre": ["Action", "Fantasy", "Sci-Fi"]
-  },
-  {
-    "title": "A Certain Scientific Railgun",
-    "cover": "https://cdn.myanimelist.net/images/anime/11/53581.jpg",
-    "page": "Railgun/railgun.html",
-    "genre": ["Action", "Sci-Fi", "Super Power"]
-  },
-  {
-    "title": "A Certain Scientific Accelerator",
-    "cover": "https://cdn.myanimelist.net/images/anime/1590/111940.jpg",
-    "page": "Accelerator/accelerator.html",
-    "genre": ["Action", "Sci-Fi", "Super Power"]
-  },
-  {
-    "title": "The Disappearance of Haruhi Suzumiya",
-    "cover": "https://cdn.myanimelist.net/images/anime/2/74047.jpg",
-    "page": "HaruhiMovie/haruhimovie.html",
-    "genre": ["Mystery", "Sci-Fi", "Drama"]
-  },
-  {
-    "title": "The Girl Who Leapt Through Time",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/27.jpg",
-    "page": "GirlWhoLeapt/girlwholeapt.html",
-    "genre": ["Drama", "Romance", "Sci-Fi"]
-  },
-  {
-    "title": "Summer Wars",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/25073.jpg",
-    "page": "SummerWars/summerwars.html",
-    "genre": ["Adventure", "Comedy", "Sci-Fi"]
-  },
-  {
-    "title": "Wolf Children",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/35799.jpg",
-    "page": "WolfChildren/wolfchildren.html",
-    "genre": ["Drama", "Fantasy", "Slice of Life"]
-  },
-  {
-    "title": "The Boy and the Beast",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/77935.jpg",
-    "page": "BoyAndBeast/boyandbeast.html",
-    "genre": ["Adventure", "Fantasy", "Comedy"]
-  },
-  {
-    "title": "Mirai",
-    "cover": "https://cdn.myanimelist.net/images/anime/1975/93469.jpg",
-    "page": "Mirai/mirai.html",
-    "genre": ["Adventure", "Drama", "Fantasy"]
-  },
-  {
-    "title": "Belle",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/115823.jpg",
-    "page": "Belle/belle.html",
-    "genre": ["Drama", "Fantasy", "Music"]
-  },
-  {
-    "title": "Weathering With You",
-    "cover": "https://cdn.myanimelist.net/images/anime/1595/102531.jpg",
-    "page": "WeatheringWithYou/weatheringwithyou.html",
-    "genre": ["Romance", "Drama", "Supernatural"]
-  },
-  {
-    "title": "Suzume",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/134237.jpg",
-    "page": "Suzume/suzume.html",
-    "genre": ["Adventure", "Drama", "Supernatural"]
-  },
-  {
-    "title": "5 Centimeters Per Second",
-    "cover": "https://cdn.myanimelist.net/images/anime/6/73426.jpg",
-    "page": "5cmPerSecond/5cm.html",
-    "genre": ["Drama", "Romance", "Slice of Life"]
-  },
-  {
-    "title": "The Place Promised in Our Early Days",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/75789.jpg",
-    "page": "PlacePromised/placepromised.html",
-    "genre": ["Drama", "Romance", "Sci-Fi"]
-  },
-  {
-    "title": "Children Who Chase Lost Voices",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/35669.jpg",
-    "page": "ChildrenLostVoices/childrenlostvoices.html",
-    "genre": ["Adventure", "Drama", "Fantasy"]
-  },
-  {
-    "title": "Patema Inverted",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/55251.jpg",
-    "page": "PatemaInverted/patemainverted.html",
-    "genre": ["Sci-Fi", "Adventure", "Drama"]
-  },
-  {
-    "title": "The Anthem of the Heart",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/75791.jpg",
-    "page": "AnthemHeart/anthemheart.html",
-    "genre": ["Drama", "Romance", "Music"]
-  },
-  {
-    "title": "A Silent Voice",
-    "cover": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
-    "page": "SilentVoice/silentvoice.html",
-    "genre": ["Drama", "Romance", "School"]
-  },
-  {
-    "title": "Liz and the Blue Bird",
-    "cover": "https://cdn.myanimelist.net/images/anime/1765/93469.jpg",
-    "page": "LizBlueBird/lizbluebird.html",
-    "genre": ["Drama", "Music", "Slice of Life"]
-  },
-  {
-    "title": "Ride Your Wave",
-    "cover": "https://cdn.myanimelist.net/images/anime/1290/111940.jpg",
-    "page": "RideYourWave/rideyourwave.html",
-    "genre": ["Drama", "Romance", "Supernatural"]
-  },
-  {
-    "title": "Josee, the Tiger and the Fish",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
-    "page": "JoseeTigerFish/joseetigerfish.html",
-    "genre": ["Drama", "Romance", "Slice of Life"]
-  },
-  {
-    "title": "Words Bubble Up Like Soda Pop",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
-    "page": "WordsBubbleUp/wordsbubbleup.html",
-    "genre": ["Romance", "Music", "Slice of Life"]
-  },
-  {
-    "title": "The Night is Short, Walk on Girl",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
-    "page": "NightShort/nightshort.html",
-    "genre": ["Comedy", "Romance", "Supernatural"]
-  },
-  {
-    "title": "In This Corner of the World",
-    "cover": "https://cdn.myanimelist.net/images/anime/9/85291.jpg",
-    "page": "ThisCornerWorld/thiscornerworld.html",
-    "genre": ["Drama", "Historical", "Slice of Life"]
-  },
-  {
-    "title": "Maquia: When the Promised Flower Blooms",
-    "cover": "https://cdn.myanimelist.net/images/anime/1792/111940.jpg",
-    "page": "Maquia/maquia.html",
-    "genre": ["Drama", "Fantasy", "Slice of Life"]
-  },
-  {
-    "title": "The Case of Hana & Alice",
-    "cover": "https://cdn.myanimelist.net/images/anime/12/75793.jpg",
-    "page": "HanaAlice/hanaalice.html",
-    "genre": ["Mystery", "Slice of Life", "Drama"]
-  },
-  {
-    "title": "Penguin Highway",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
-    "page": "PenguinHighway/penguinhighway.html",
-    "genre": ["Sci-Fi", "Mystery", "Slice of Life"]
-  },
-  {
-    "title": "The Wonderland",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
-    "page": "Wonderland/wonderland.html",
-    "genre": ["Adventure", "Fantasy", "Drama"]
-  },
-  {
-    "title": "On-Gaku: Our Sound",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
-    "page": "OnGaku/ongaku.html",
-    "genre": ["Comedy", "Music", "Slice of Life"]
-  },
-  {
-    "title": "The House of the Lost on the Cape",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
-    "page": "HouseLostCape/houselostcape.html",
-    "genre": ["Drama", "Fantasy", "Slice of Life"]
-  },
-  {
-    "title": "Fortune Favors Lady Nikuko",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
-    "page": "Nikuko/nikuko.html",
-    "genre": ["Comedy", "Drama", "Slice of Life"]
-  },
-  {
-    "title": "Goodbye, Don Glees!",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
-    "page": "DonGlees/donglees.html",
-    "genre": ["Adventure", "Drama", "Slice of Life"]
-  },
-  {
-    "title": "The Tunnel to Summer, the Exit of Goodbyes",
-    "cover": "https://cdn.myanimelist.net/images/anime/1949/111940.jpg",
-    "page": "TunnelSummer/tunnelsummer.html",
-    "genre": ["Drama", "Romance", "Sci-Fi"]
-  },
-  {
-    "title": "The Concierge",
-    "cover": "https://cdn.myanimelist.net/images/anime/1706/111940.jpg",
-    "page": "Concierge/concierge.html",
-    "genre": ["Fantasy", "Slice of Life", "Drama"]
-  },
-  {
-    "title": "Gold Kingdom and Water Kingdom",
-    "cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
-    "page": "GoldWaterKingdom/goldwaterkingdom.html",
-    "genre": ["Fantasy", "Romance", "Drama"]
-  },
-  {
-    "title": "The Imaginary",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
-    "page": "Imaginary/imaginary.html",
-    "genre": ["Fantasy", "Adventure", "Drama"]
-  },
-  {
-    "title": "The Colors Within",
-    "cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
-    "page": "ColorsWithin/colorswithin.html",
-    "genre": ["Drama", "Slice of Life", "Supernatural"]
-  },
-  {
-    "title": "The Missing 8",
-    "cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
-    "page": "Missing8/missing8.html",
-    "genre": ["Mystery", "Thriller", "Drama"]
-  },
-  {
-    "title": "The Deer King",
-    "cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
-    "page": "DeerKing/deerking.html",
-    "genre": ["Fantasy", "Adventure", "Drama"]
-  },
-  {
-    "title": "The Birth of Kitaro",
-    "cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
-    "page": "Kitaro/kitaro.html",
-    "genre": ["Fantasy", "Horror", "Supernatural"]
-  },
-  {
-    "title": "The Great Yokai War: Guardians",
-    "cover": "https://cdn.myanimelist.net/images/anime/1949/111940.jpg",
-    "page": "YokaiWar/yokaiwar.html",
-    "genre": ["Fantasy", "Action", "Adventure"]
-  },
-  {
-    "title": "The Vampire Dies in No Time",
-    "cover": "https://cdn.myanimelist.net/images/anime/1706/111940.jpg",
-    "page": "VampireDies/vampiredies.html",
-    "genre": ["Comedy", "Supernatural", "Vampire"]
-  },
-  {
-    "title": "The Yakuza's Guide to Babysitting",
-    "cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
-    "page": "YakuzaBabysitting/yakuzababysitting.html",
-    "genre": ["Comedy", "Slice of Life", "Drama"]
-  },
-  {
-    "title": "The Angel Next Door Spoils Me Rotten",
-    "cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
-    "page": "AngelNextDoor/angelnextdoor.html",
-    "genre": ["Romance", "Slice of Life", "Drama"]
-  }
+	{
+  "title": "5 Centimeters Per Second",
+  "altTitle": "Byousoku 5 Centimeter",
+  "cover": "https://cdn.myanimelist.net/images/anime/6/73426.jpg",
+  "page": "5cmPerSecond/5cm.html",
+  "genre": ["Drama", "Romance", "Slice of Life"]
+},
+{
+  "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+  "altTitle": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru",
+  "cover": "https://cdn.myanimelist.net/images/anime/1533/140617.jpg",
+  "page": "7thTimeLoop/7thtimeloop.html",
+  "genre": ["Fantasy", "Romance", "Drama"]
+},
+{
+  "title": "91 Days",
+  "altTitle": "91 Days",
+  "cover": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+  "page": "91Days/91days.html",
+  "genre": ["Action", "Drama", "Historical"]
+},
+{
+  "title": "A Certain Magical Index",
+  "altTitle": "Toaru Majutsu no Index",
+  "cover": "https://cdn.myanimelist.net/images/anime/2/75533.jpg",
+  "page": "Index/index.html",
+  "genre": ["Action", "Fantasy", "Sci-Fi"]
+},
+{
+  "title": "A Certain Scientific Accelerator",
+  "altTitle": "Toaru Kagaku no Accelerator",
+  "cover": "https://cdn.myanimelist.net/images/anime/1160/99995.jpg",
+  "page": "Accelerator/accelerator.html",
+  "genre": ["Action", "Sci-Fi", "Super Power"]
+},
+{
+  "title": "A Certain Scientific Railgun",
+  "altTitle": "Toaru Kagaku no Railgun",
+  "cover": "https://cdn.myanimelist.net/images/anime/8/53581.jpg",
+  "page": "Railgun/railgun.html",
+  "genre": ["Action", "Sci-Fi", "Super Power"]
+},
+{
+  "title": "A Place Further Than the Universe",
+  "altTitle": "Sora yori mo Tooi Basho",
+  "cover": "https://cdn.myanimelist.net/images/anime/6/89879.jpg",
+  "page": "PlaceFurtherUniverse/placefurtheruniverse.html",
+  "genre": ["Adventure", "Slice of Life", "Drama"]
+},
+{
+  "title": "A Sign of Affection",
+  "altTitle": "Yubisaki to Renren",
+  "cover": "https://cdn.myanimelist.net/images/anime/1478/140828.jpg",
+  "page": "SignAffection/signaffection.html",
+  "genre": ["Romance", "Drama", "Slice of Life"]
+},
+{
+  "title": "A Silent Voice",
+  "altTitle": "Koe no Katachi",
+  "cover": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+  "page": "SilentVoice/silentvoice.html",
+  "genre": ["Drama", "Romance", "School"]
+},
+{
+  "title": "Air Gear",
+  "altTitle": "Air Gear",
+  "cover": "https://cdn.myanimelist.net/images/anime/2/75835.jpg",
+  "page": "AirGear/airgear.html",
+  "genre": ["Action", "Sports", "Comedy"]
+},
+{
+  "title": "Akame ga Kill!",
+  "altTitle": "Akame ga Kill!",
+  "cover": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+  "page": "AkameGaKill/akamegakill.html",
+  "genre": ["Action", "Drama", "Fantasy"]
+},
+{
+  "title": "Akashic Records of Bastard Magic Instructor",
+  "altTitle": "Rokudenashi Majutsu Koushi to Akashic Records",
+  "cover": "https://cdn.myanimelist.net/images/anime/9/84528.jpg",
+  "page": "AkashicRecords/akashicrecords.html",
+  "genre": ["Fantasy", "Magic", "School"]
+},
+{
+  "title": "Akira",
+  "altTitle": "Akira",
+  "cover": "https://cdn.myanimelist.net/images/anime/2/82596.jpg",
+  "page": "Akira/akira.html",
+  "genre": ["Action", "Sci-Fi", "Drama"]
+},
+{
+  "title": "Alderamin on the Sky",
+  "altTitle": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+  "cover": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+  "page": "Alderamin/alderamin.html",
+  "genre": ["Action", "Fantasy", "Military"]
+},
+{
+  "title": "Amagi Brilliant Park",
+  "altTitle": "Amagi Brilliant Park",
+  "cover": "https://cdn.myanimelist.net/images/anime/13/67033.jpg",
+  "page": "AmagiBrilliantPark/amagibrilliantpark.html",
+  "genre": ["Comedy", "Fantasy", "Slice of Life"]
+},
+{
+  "title": "Angel Beats!",
+  "altTitle": "Angel Beats!",
+  "cover": "https://cdn.myanimelist.net/images/anime/10/22062.jpg",
+  "page": "AngelBeats/angelbeats.html",
+  "genre": ["Drama", "Supernatural", "Comedy"]
+},
+{
+  "title": "Anohana: The Flower We Saw That Day",
+  "altTitle": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+  "cover": "https://cdn.myanimelist.net/images/anime/5/79697.jpg",
+  "page": "Anohana/anohana.html",
+  "genre": ["Drama", "Slice of Life", "Supernatural"]
+},
+{
+  "title": "Another",
+  "altTitle": "Another",
+  "cover": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
+  "page": "Another/another.html",
+  "genre": ["Horror", "Mystery", "Thriller"]
+},
+{
+  "title": "Arslan Senki (The Heroic Legend of Arslan)",
+  "altTitle": "Arslan Senki",
+  "cover": "https://cdn.myanimelist.net/images/anime/6/73588.jpg",
+  "page": "ArslanSenki/arslansenki.html",
+  "genre": ["Action", "Adventure", "Historical"]
+},
+{
+  "title": "Ascendance of a Bookworm",
+  "altTitle": "Honzuki no Gekokujou",
+  "cover": "https://cdn.myanimelist.net/images/anime/1705/111940.jpg",
+  "page": "Bookworm/bookworm.html",
+  "genre": ["Fantasy", "Slice of Life", "Isekai"]
+},
+{
+  "title": "Assassination Classroom",
+  "altTitle": "Ansatsu Kyoushitsu",
+  "cover": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+  "page": "AssassinationClassroom/assassinationclassroom.html",
+  "genre": ["Action", "Comedy", "School"]
+},
+{
+  "title": "Attack on Titan",
+  "altTitle": "Shingeki no Kyojin",
+  "cover": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+  "page": "AttackOnTitan/aot.html",
+  "genre": ["Action", "Drama", "Fantasy"]
+}
+,
+	{
+  "title": "Baccano!",
+  "altTitle": "バッカーノ!",
+  "cover": "https://cdn.myanimelist.net/images/anime/3/50397.jpg",
+  "page": "Baccano/baccano.html",
+  "genre": ["Action", "Mystery", "Supernatural"]
+},
+{
+  "title": "Bakuman.",
+  "altTitle": "バクマン。",
+  "cover": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+  "page": "Bakuman/bakuman.html",
+  "genre": ["Comedy", "Drama", "Romance"]
+},
+{
+  "title": "Bang Brave Bang Bravern",
+  "altTitle": "勇気爆発バーンブレイバーン (Yuuki Bakuhatsu Bang Bravern)",
+  "cover": "https://cdn.myanimelist.net/images/anime/1706/138006.jpg",
+  "page": "BraveBravern/bravebravern.html",
+  "genre": ["Mecha", "Action", "Sci-Fi"]
+},
+{
+  "title": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
+  "altTitle": "Shin no Nakama",
+  "cover": "https://cdn.myanimelist.net/images/anime/1815/117637.jpg",
+  "page": "BanishedHero/banishedhero.html",
+  "genre": ["Fantasy", "Romance", "Slice of Life"]
+},
+{
+  "title": "Barakamon",
+  "altTitle": "ばらかもん",
+  "cover": "https://cdn.myanimelist.net/images/anime/9/64225.jpg",
+  "page": "Barakamon/barakamon.html",
+  "genre": ["Comedy", "Slice of Life"]
+},
+	{
+  "title": "C: The Money of Soul and Possibility Control",
+  "altTitle": "C: The Money of Soul and Possibility Control (C)",
+  "cover": "https://cdn.myanimelist.net/images/anime/6/30451.jpg",
+  "page": "CControl/ccontrol.html",
+  "genre": ["Action", "Supernatural", "Thriller"]
+},
+{
+  "title": "Call of the Night",
+  "altTitle": "Yofukashi no Uta",
+  "cover": "https://cdn.myanimelist.net/images/anime/1255/125392.jpg",
+  "page": "CallOfTheNight/callofthenight.html",
+  "genre": ["Supernatural", "Romance", "Drama"]
+},
+{
+  "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+  "altTitle": "Shinchou Yuusha",
+  "cover": "https://cdn.myanimelist.net/images/anime/1614/111940.jpg",
+  "page": "CautiousHero/cautioushero.html",
+  "genre": ["Comedy", "Fantasy", "Isekai"]
+},
+{
+  "title": "Chained Soldier",
+  "altTitle": "Mato Seihei no Slave",
+  "cover": "https://cdn.myanimelist.net/images/anime/1815/138006.jpg",
+  "page": "ChainedSoldier/chainedsoldier.html",
+  "genre": ["Action", "Fantasy", "Ecchi"]
+},
+{
+  "title": "Chainsaw Man",
+  "altTitle": "チェンソーマン (Chensō Man)",
+  "cover": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+  "page": "ChainsawMan/chainsawman.html",
+  "genre": ["Action", "Horror", "Supernatural"]
+},
+{
+  "title": "Charlotte",
+  "altTitle": "シャーロット",
+  "cover": "https://cdn.myanimelist.net/images/anime/12/74683.jpg",
+  "page": "Charlotte/charlotte.html",
+  "genre": ["Supernatural", "Drama", "School"]
+},
+{
+  "title": "Chihayafuru",
+  "altTitle": "ちはやふる",
+  "cover": "https://cdn.myanimelist.net/images/anime/5/75538.jpg",
+  "page": "Chihayafuru/chihayafuru.html",
+  "genre": ["Drama", "Romance", "Sports"]
+},
+{
+  "title": "Children Who Chase Lost Voices",
+  "altTitle": "Hoshi wo Ou Kodomo",
+  "cover": "https://cdn.myanimelist.net/images/anime/9/35669.jpg",
+  "page": "ChildrenLostVoices/childrenlostvoices.html",
+  "genre": ["Adventure", "Drama", "Fantasy"]
+},
+{
+  "title": "Chivalry of a Failed Knight",
+  "altTitle": "Rakudai Kishi no Cavalry",
+  "cover": "https://cdn.myanimelist.net/images/anime/12/76014.jpg",
+  "page": "ChivalryFailedKnight/chivalryfailedknight.html",
+  "genre": ["Action", "Fantasy", "Romance"]
+},
+{
+  "title": "Clannad",
+  "altTitle": "クラナド",
+  "cover": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg",
+  "page": "Clannad/clannad.html",
+  "genre": ["Drama", "Romance", "Slice of Life"]
+},
+{
+  "title": "Classroom of the Elite",
+  "altTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+  "cover": "https://cdn.myanimelist.net/images/anime/5/86830.jpg",
+  "page": "ClassroomElite/classroomelite.html",
+  "genre": ["Drama", "Psychological", "School"]
+},
+{
+  "title": "Code Geass: Lelouch of the Rebellion",
+  "altTitle": "Code Geass: Hangyaku no Lelouch",
+  "cover": "https://cdn.myanimelist.net/images/anime/5/50331.jpg",
+  "page": "CodeGeass/codegeass.html",
+  "genre": ["Action", "Mecha", "Drama"]
+},
+{
+  "title": "Cowboy Bebop",
+  "altTitle": "カウボーイビバップ",
+  "cover": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+  "page": "CowboyBebop/cowboybebop.html",
+  "genre": ["Action", "Sci-Fi", "Adventure"]
+}
+,
+	{
+  "title": "D.Gray-man",
+  "altTitle": "ディー・グレイマン",
+  "cover": "https://cdn.myanimelist.net/images/anime/10/75195.jpg",
+  "page": "DGrayMan/dgrayman.html",
+  "genre": ["Action", "Adventure", "Supernatural"]
+},
+{
+  "title": "Darkside Blues",
+  "altTitle": "ダークサイド・ブルース",
+  "cover": "https://cdn.myanimelist.net/images/anime/6/23605.jpg",
+  "page": "DarksideBlues/darksideblues.html",
+  "genre": ["Sci-Fi", "Action", "Psychological"]
+},
+{
+  "title": "Darling in the FranXX",
+  "altTitle": "ダーリン・イン・ザ・フランキス (DarliFra)",
+  "cover": "https://cdn.myanimelist.net/images/anime/13/96007.jpg",
+  "page": "DarlingInTheFranXX/darlinginthefranxx.html",
+  "genre": ["Sci-Fi", "Mecha", "Romance"]
+},
+{
+  "title": "Deadman Wonderland",
+  "altTitle": "デッドマン・ワンダーランド",
+  "cover": "https://cdn.myanimelist.net/images/anime/4/75509.jpg",
+  "page": "DeadmanWonderland/deadmanwonderland.html",
+  "genre": ["Action", "Horror", "Sci-Fi"]
+},
+{
+  "title": "Death Note",
+  "altTitle": "デスノート",
+  "cover": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+  "page": "DeathNote/deathnote.html",
+  "genre": ["Mystery", "Thriller", "Psychological"]
+},
+{
+  "title": "Demon Slayer",
+  "altTitle": "Kimetsu no Yaiba",
+  "cover": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+  "page": "DemonSlayer/demonslayer.html",
+  "genre": ["Action", "Fantasy", "Adventure"]
+},
+{
+  "title": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+  "altTitle": "Tsuujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaa-san wa Suki desu ka? (Okaasan Online)",
+  "cover": "https://cdn.myanimelist.net/images/anime/1035/111940.jpg",
+  "page": "Mamahits/mamahits.html",
+  "genre": ["Comedy", "Fantasy", "Isekai"]
+},
+{
+  "title": "Domestic Girlfriend",
+  "altTitle": "Domestic na Kanojo",
+  "cover": "https://cdn.myanimelist.net/images/anime/1290/111940.jpg",
+  "page": "DomesticGirlfriend/domesticgirlfriend.html",
+  "genre": ["Drama", "Romance", "School"]
+},
+{
+  "title": "Dororo",
+  "altTitle": "どろろ",
+  "cover": "https://cdn.myanimelist.net/images/anime/4/88193.jpg",
+  "page": "Dororo/dororo.html",
+  "genre": ["Action", "Demons", "Adventure"]
+},
+{
+  "title": "Dr. Stone",
+  "altTitle": "ドクターストーン",
+  "cover": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg",
+  "page": "DrStone/drstone.html",
+  "genre": ["Sci-Fi", "Adventure", "Shounen"]
+},
+{
+  "title": "Dragon Ball Z",
+  "altTitle": "ドラゴンボールZ (DBZ)",
+  "cover": "https://cdn.myanimelist.net/images/anime/1607/117271.jpg",
+  "page": "DBZ/dbz.html",
+  "genre": ["Action", "Adventure", "Shounen"]
+},
+{
+  "title": "Elfen Lied",
+  "altTitle": "エルフェンリート",
+  "cover": "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
+  "page": "ElfenLied/elfenlied.html",
+  "genre": ["Drama", "Horror", "Psychological"]
+},
+{
+  "title": "Erased",
+  "altTitle": "Boku dake ga Inai Machi",
+  "cover": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+  "page": "Erased/erased.html",
+  "genre": ["Mystery", "Thriller", "Drama"]
+},
+{
+  "title": "Erased: Special",
+  "altTitle": "Boku dake ga Inai Machi: Special",
+  "cover": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+  "page": "ErasedSpecial/erasedspecial.html",
+  "genre": ["Mystery", "Thriller", "Drama"]
+},
+{
+  "title": "Ergo Proxy",
+  "altTitle": "エルゴプラクシー",
+  "cover": "https://cdn.myanimelist.net/images/anime/11/6393.jpg",
+  "page": "ErgoProxy/ergoproxy.html",
+  "genre": ["Sci-Fi", "Psychological", "Mystery"]
+},
+{
+  "title": "Ergo Proxy: Special",
+  "altTitle": "エルゴプラクシー Special",
+  "cover": "https://cdn.myanimelist.net/images/anime/5/7311.jpg",
+  "page": "ErgoProxySpecial/ergoproxyspecial.html",
+  "genre": ["Sci-Fi", "Mystery", "Psychological"]
+},
+{
+  "title": "Fairy Tail",
+  "altTitle": "フェアリーテイル",
+  "cover": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
+  "page": "FairyTail/fairytail.html",
+  "genre": ["Action", "Fantasy", "Comedy"]
+},
+{
+  "title": "Fate/Zero",
+  "altTitle": "フェイト/ゼロ",
+  "cover": "https://cdn.myanimelist.net/images/anime/2/73249.jpg",
+  "page": "FateZero/fatezero.html",
+  "genre": ["Action", "Supernatural", "Drama"]
+},
+{
+  "title": "Fire Force",
+  "altTitle": "Enen no Shouboutai",
+  "cover": "https://cdn.myanimelist.net/images/anime/9/92105.jpg",
+  "page": "FireForce/fireforce.html",
+  "genre": ["Action", "Supernatural", "Adventure"]
+},
+{
+  "title": "Food Wars! (Shokugeki no Soma)",
+  "altTitle": "Shokugeki no Souma",
+  "cover": "https://cdn.myanimelist.net/images/anime/3/76699.jpg",
+  "page": "FoodWars/foodwars.html",
+  "genre": ["Comedy", "Ecchi", "Cooking"]
+},
+{
+  "title": "Fortune Favors Lady Nikuko",
+  "altTitle": "Gyokou no Nikuko-chan",
+  "cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
+  "page": "Nikuko/nikuko.html",
+  "genre": ["Comedy", "Drama", "Slice of Life"]
+},
+{
+  "title": "Frieren: Beyond Journey's End",
+  "altTitle": "Sousou no Frieren",
+  "cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+  "page": "Frieren/frieren.html",
+  "genre": ["Fantasy", "Adventure", "Drama"]
+},
+{
+  "title": "Fruits Basket (2019)",
+  "altTitle": "Fruits Basket: 1st Season",
+  "cover": "https://cdn.myanimelist.net/images/anime/1085/111121.jpg",
+  "page": "FruitsBasket/fruitsbasket.html",
+  "genre": ["Romance", "Supernatural", "Slice of Life"]
+},
+{
+  "title": "Fullmetal Alchemist: Brotherhood",
+  "altTitle": "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+  "cover": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+  "page": "FMAB/fmab.html",
+  "genre": ["Action", "Adventure", "Drama"]
+}
+,
+	{
+	"title": "Gangsta.",
+	"altTitle": ["Gyangusuta", "ギャングスタ"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/73559.jpg",
+	"page": "Gangsta/gangsta.html",
+	"genre": ["Action", "Drama", "Seinen"]
+},
+{
+	"title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+	"altTitle": ["Gate", "ゲート 自衛隊 彼の地にて、斯く戦えり"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/76091.jpg",
+	"page": "Gate/gate.html",
+	"genre": ["Action", "Fantasy", "Military"]
+},
+{
+	"title": "Gintama",
+	"altTitle": ["銀魂"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/83528.jpg",
+	"page": "Gintama/gintama.html",
+	"genre": ["Action", "Comedy", "Sci-Fi"]
+},
+{
+	"title": "Goblin Slayer",
+	"altTitle": ["ゴブリンスレイヤー"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/89757.jpg",
+	"page": "GoblinSlayer/goblinslayer.html",
+	"genre": ["Dark Fantasy", "Action", "Adventure"]
+},
+{
+	"title": "Gold Kingdom and Water Kingdom",
+	"altTitle": ["Kin no Kuni Mizu no Kuni", "金の国 水の国"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
+	"page": "GoldWaterKingdom/goldwaterkingdom.html",
+	"genre": ["Fantasy", "Romance", "Drama"]
+},
+{
+	"title": "Golden Kamuy",
+	"altTitle": ["ゴールデンカムイ"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1286/93532.jpg",
+	"page": "GoldenKamuy/goldenkamuy.html",
+	"genre": ["Action", "Adventure", "Historical"]
+},
+{
+	"title": "Goodbye, Don Glees!",
+	"altTitle": ["さよなら ドン・グリーズ!", "Sayonara Don Glees!"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
+	"page": "DonGlees/donglees.html",
+	"genre": ["Adventure", "Drama", "Slice of Life"]
+},
+{
+	"title": "Grand Blue",
+	"altTitle": ["ぐらんぶる", "Grand Blue Dreaming"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1292/95078.jpg",
+	"page": "GrandBlue/grandblue.html",
+	"genre": ["Comedy", "Slice of Life", "Seinen"]
+},
+{
+	"title": "Great Teacher Onizuka",
+	"altTitle": ["GTO", "グレート・ティーチャー・オニヅカ"],
+	"cover": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
+	"page": "GTO/gto.html",
+	"genre": ["Comedy", "Drama", "School"]
+},
+{
+	"title": "Grimgar of Fantasy and Ash",
+	"altTitle": ["Hai to Gensou no Grimgar", "灰と幻想のグリムガル"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/77957.jpg",
+	"page": "Grimgar/grimgar.html",
+	"genre": ["Fantasy", "Drama", "Adventure"]
+},
+{
+	"title": "Guilty Crown",
+	"altTitle": ["ギルティクラウン"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/33713.jpg",
+	"page": "GuiltyCrown/guiltycrown.html",
+	"genre": ["Action", "Sci-Fi", "Drama"]
+},
+{
+	"title": "Haikyuu!!",
+	"altTitle": ["ハイキュー!!"],
+	"cover": "https://cdn.myanimelist.net/images/anime/7/76014.jpg",
+	"page": "Haikyuu/haikyuu.html",
+	"genre": ["Sports", "Drama", "School"]
+},
+{
+	"title": "Hajime no Ippo",
+	"altTitle": ["はじめの一歩", "Fighting Spirit"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/48471.jpg",
+	"page": "HajimeNoIppo/hajimenoippo.html",
+	"genre": ["Sports", "Action", "Drama"]
+},
+{
+	"title": "Hell's Paradise",
+	"altTitle": ["Jigokuraku", "地獄楽"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/134237.jpg",
+	"page": "HellsParadise/hellsparadise.html",
+	"genre": ["Action", "Fantasy", "Horror"]
+},
+{
+	"title": "Hellsing Ultimate",
+	"altTitle": ["ヘルシング"],
+	"cover": "https://cdn.myanimelist.net/images/anime/7/28394.jpg",
+	"page": "HellsingUltimate/hellsingultimate.html",
+	"genre": ["Action", "Supernatural", "Horror"]
+},
+{
+	"title": "High School DxD",
+	"altTitle": ["ハイスクールD×D"],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/71091.jpg",
+	"page": "HighSchoolDxD/highschooldxd.html",
+	"genre": ["Action", "Comedy", "Ecchi"]
+},
+{
+	"title": "Highschool of the Dead",
+	"altTitle": ["学園黙示録 HIGHSCHOOL OF THE DEAD", "Gakuen Mokushiroku"],
+	"cover": "https://cdn.myanimelist.net/images/anime/13/25241.jpg",
+	"page": "HSOTD/hsotd.html",
+	"genre": ["Action", "Horror", "Ecchi"]
+},
+{
+	"title": "Hinamatsuri",
+	"altTitle": ["ヒナまつり"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1861/93689.jpg",
+	"page": "Hinamatsuri/hinamatsuri.html",
+	"genre": ["Comedy", "Sci-Fi", "Slice of Life"]
+},
+{
+	"title": "Hokkaido Gals Are Super Adorable!",
+	"altTitle": ["Dosanko Gal wa Namara Menkoi", "道産子ギャルはなまらめんこい"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/138006.jpg",
+	"page": "HokkaidoGals/hokkaidogals.html",
+	"genre": ["Romance", "Comedy", "Slice of Life"]
+},
+{
+	"title": "Horimiya",
+	"altTitle": ["ホリミヤ"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1248/111940.jpg",
+	"page": "Horimiya/horimiya.html",
+	"genre": ["Romance", "Comedy", "Slice of Life"]
+},
+{
+	"title": "Howl's Moving Castle",
+	"altTitle": ["Hauru no Ugoku Shiro", "ハウルの動く城"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+	"page": "HowlsMovingCastle/howlsmovingcastle.html",
+	"genre": ["Fantasy", "Romance", "Adventure"]
+},
+{
+	"title": "Hunter x Hunter",
+	"altTitle": ["HxH", "ハンター×ハンター"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+	"page": "HxH/hxh.html",
+	"genre": ["Action", "Adventure", "Fantasy"]
+},
+{
+	"title": "Hyouka",
+	"altTitle": ["氷菓"],
+	"cover": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
+	"page": "Hyouka/hyouka.html",
+	"genre": ["Mystery", "Slice of Life", "School"]
+},
+	{
+	"title": "In This Corner of the World",
+	"altTitle": ["Kono Sekai no Katasumi ni"],
+	"cover": "https://cdn.myanimelist.net/images/anime/9/85291.jpg",
+	"page": "ThisCornerWorld/thiscornerworld.html",
+	"genre": [
+		"Drama",
+		"Historical",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Initial D",
+	"altTitle": ["頭文字D", "First D"],
+	"cover": "https://cdn.myanimelist.net/images/anime/7/6807.jpg",
+	"page": "InitialD/initiald.html",
+	"genre": [
+		"Sports",
+		"Action",
+		"Cars"
+	]
+},
+{
+	"title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+	"altTitle": ["Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka", "DanMachi"],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/76031.jpg",
+	"page": "DanMachi/danmachi.html",
+	"genre": [
+		"Fantasy",
+		"Adventure",
+		"Romance"
+	]
+},
+{
+	"title": "JoJo's Bizarre Adventure",
+	"altTitle": ["JoJo no Kimyou na Bouken"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+	"page": "JoJo/jojo.html",
+	"genre": [
+		"Action",
+		"Adventure",
+		"Supernatural"
+	]
+},
+{
+	"title": "Josee, the Tiger and the Fish",
+	"altTitle": ["Josee to Tora to Sakana-tachi"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
+	"page": "JoseeTigerFish/joseetigerfish.html",
+	"genre": [
+		"Drama",
+		"Romance",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Jujutsu Kaisen",
+	"altTitle": ["Jujutsu Kaisen 2019"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+	"page": "JujutsuKaisen/jujutsukaisen.html",
+	"genre": [
+		"Action",
+		"Supernatural",
+		"Fantasy"
+	]
+},
+{
+	"title": "Just Because!",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/4/88333.jpg",
+	"page": "JustBecause/justbecause.html",
+	"genre": [
+		"Drama",
+		"Romance",
+		"Slice of Life"
+	]
+},
+{
+	"title": "K Project",
+	"altTitle": ["K"],
+	"cover": "https://cdn.myanimelist.net/images/anime/4/74259.jpg",
+	"page": "KProject/kproject.html",
+	"genre": [
+		"Action",
+		"Supernatural",
+		"Drama"
+	]
+},
+{
+	"title": "K-On!",
+	"altTitle": ["けいおん!"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/76120.jpg",
+	"page": "KOn/kon.html",
+	"genre": [
+		"Music",
+		"Slice of Life",
+		"Comedy"
+	]
+},
+{
+	"title": "Kabaneri of the Iron Fortress",
+	"altTitle": ["Koutetsujou no Kabaneri"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/79164.jpg",
+	"page": "Kabaneri/kabaneri.html",
+	"genre": [
+		"Action",
+		"Horror",
+		"Steampunk"
+	]
+},
+{
+	"title": "Kaguya-sama: Love is War",
+	"altTitle": ["Kaguya-sama wa Kokurasetai"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
+	"page": "KaguyaSama/kaguya.html",
+	"genre": [
+		"Comedy",
+		"Psychological",
+		"Romance"
+	]
+},
+{
+	"title": "Katanagatari",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/71899.jpg",
+	"page": "Katanagatari/katanagatari.html",
+	"genre": [
+		"Action",
+		"Adventure",
+		"Historical"
+	]
+},
+{
+	"title": "Kekkai Sensen (Blood Blockade Battlefront)",
+	"altTitle": ["Blood Blockade Battlefront"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/76123.jpg",
+	"page": "KekkaiSensen/kekkai.html",
+	"genre": [
+		"Action",
+		"Supernatural",
+		"Comedy"
+	]
+},
+{
+	"title": "Kill la Kill",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/98839.jpg",
+	"page": "KillLaKill/killlakill.html",
+	"genre": [
+		"Action",
+		"Comedy",
+		"Super Power"
+	]
+},
+{
+	"title": "Kiznaiver",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/8/79460.jpg",
+	"page": "Kiznaiver/kiznaiver.html",
+	"genre": [
+		"Sci-Fi",
+		"Drama",
+		"Psychological"
+	]
+},
+{
+	"title": "Kono Oto Tomare!",
+	"altTitle": ["Stop This Sound!"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1140/100990.jpg",
+	"page": "KonoOtoTomare/konooto.html",
+	"genre": [
+		"Drama",
+		"Music",
+		"School"
+	]
+},
+{
+	"title": "KonoSuba",
+	"altTitle": ["Kono Subarashii Sekai ni Shukufuku wo!"],
+	"cover": "https://cdn.myanimelist.net/images/anime/8/77831.jpg",
+	"page": "Konosuba/konosuba.html",
+	"genre": [
+		"Comedy",
+		"Fantasy",
+		"Adventure"
+	]
+},
+{
+	"title": "Kuroko's Basketball",
+	"altTitle": ["Kuroko no Basket"],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/59475.jpg",
+	"page": "KurokoBasketball/kurokobasketball.html",
+	"genre": [
+		"Sports",
+		"Drama",
+		"School"
+	]
+},
+{
+	"title": "Liz and the Blue Bird",
+	"altTitle": ["Liz to Aoi Tori"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1765/93469.jpg",
+	"page": "LizBlueBird/lizbluebird.html",
+	"genre": [
+		"Drama",
+		"Music",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Log Horizon",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/84004.jpg",
+	"page": "LogHorizon/loghorizon.html",
+	"genre": [
+		"Fantasy",
+		"Adventure",
+		"Strategy"
+	]
+},
+{
+	"title": "Love After World Domination",
+	"altTitle": ["Koi wa Sekai Seifuku no Ato de"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/117637.jpg",
+	"page": "LoveWorldDomination/loveworlddomination.html",
+	"genre": [
+		"Comedy",
+		"Romance",
+		"Superhero"
+	]
+},
+{
+	"title": "Lycoris Recoil",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/125392.jpg",
+	"page": "LycorisRecoil/lycorisrecoil.html",
+	"genre": [
+		"Action",
+		"Comedy",
+		"Slice of Life"
+	]
+}
+,
+	{
+	"title": "Made in Abyss",
+	"altTitle": ["メイドインアビス"],
+	"cover": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+	"page": "MadeInAbyss/madeinabyss.html",
+	"genre": [
+		"Adventure",
+		"Drama",
+		"Fantasy"
+	]
+},
+{
+	"title": "Madoka Magica (Puella Magi Madoka Magica)",
+	"altTitle": ["Mahou Shoujo Madoka★Magica", "Puella Magi Madoka Magica"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/55225.jpg",
+	"page": "MadokaMagica/madokamagica.html",
+	"genre": [
+		"Magical Girl",
+		"Drama",
+		"Dark Fantasy"
+	]
+},
+{
+	"title": "Magi: The Labyrinth of Magic",
+	"altTitle": ["マギ The Labyrinth of Magic"],
+	"cover": "https://cdn.myanimelist.net/images/anime/6/43673.jpg",
+	"page": "Magi/magi.html",
+	"genre": [
+		"Adventure",
+		"Fantasy",
+		"Action"
+	]
+},
+{
+	"title": "Maquia: When the Promised Flower Blooms",
+	"altTitle": ["Sayonara no Asa ni Yakusoku no Hana wo Kazarou"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1792/111940.jpg",
+	"page": "Maquia/maquia.html",
+	"genre": [
+		"Drama",
+		"Fantasy",
+		"Slice of Life"
+	]
+},
+{
+	"title": "March Comes in Like a Lion",
+	"altTitle": ["3-gatsu no Lion"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/82890.jpg",
+	"page": "MarchLion/marchlion.html",
+	"genre": [
+		"Drama",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Masamune-kun's Revenge",
+	"altTitle": ["Masamune-kun no Revenge"],
+	"cover": "https://cdn.myanimelist.net/images/anime/4/83388.jpg",
+	"page": "MasamuneRevenge/masamunerevenge.html",
+	"genre": [
+		"Comedy",
+		"Romance",
+		"School"
+	]
+},
+{
+	"title": "Metallic Rouge",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/1949/138006.jpg",
+	"page": "MetallicRouge/metallicrouge.html",
+	"genre": [
+		"Sci-Fi",
+		"Action",
+		"Mystery"
+	]
+},
+{
+	"title": "Mirai",
+	"altTitle": ["Mirai no Mirai"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1975/93469.jpg",
+	"page": "Mirai/mirai.html",
+	"genre": [
+		"Adventure",
+		"Drama",
+		"Fantasy"
+	]
+},
+{
+	"title": "Mirai Nikki (The Future Diary)",
+	"altTitle": ["Future Diary"],
+	"cover": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+	"page": "MiraiNikki/mirainikki.html",
+	"genre": [
+		"Thriller",
+		"Mystery",
+		"Psychological"
+	]
+},
+{
+	"title": "Mob Psycho 100",
+	"altTitle": ["モブサイコ100"],
+	"cover": "https://cdn.myanimelist.net/images/anime/8/80356.jpg",
+	"page": "MobPsycho/mobpsycho.html",
+	"genre": [
+		"Action",
+		"Comedy",
+		"Supernatural"
+	]
+},
+{
+	"title": "Monster",
+	"altTitle": ["モンスター"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+	"page": "Monster/monster.html",
+	"genre": [
+		"Mystery",
+		"Thriller",
+		"Psychological"
+	]
+},
+{
+	"title": "Mr. Villain's Day Off",
+	"altTitle": ["Kyūjitsu no Warumono-san"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/138006.jpg",
+	"page": "VillainDayOff/villaindayoff.html",
+	"genre": [
+		"Comedy",
+		"Slice of Life",
+		"Supernatural"
+	]
+},
+{
+	"title": "Mushoku Tensei: Jobless Reincarnation",
+	"altTitle": ["Mushoku Tensei: Isekai Ittara Honki Dasu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1908/119089.jpg",
+	"page": "MushokuTensei/mushokutensei.html",
+	"genre": [
+		"Fantasy",
+		"Drama",
+		"Isekai"
+	]
+},
+{
+	"title": "My Hero Academia",
+	"altTitle": ["Boku no Hero Academia"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+	"page": "MHA/mha.html",
+	"genre": [
+		"Action",
+		"Comedy",
+		"Shounen"
+	]
+},
+{
+	"title": "My Teen Romantic Comedy SNAFU",
+	"altTitle": ["Yahari Ore no Seishun Love Comedy wa Machigatteiru.", "Oregairu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/75228.jpg",
+	"page": "SNAFU/myteenromcomsnafu.html",
+	"genre": [
+		"Romance",
+		"Comedy",
+		"School"
+	]
+},
+{
+	"title": "Nana",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/8706.jpg",
+	"page": "Nana/nana.html",
+	"genre": [
+		"Drama",
+		"Romance",
+		"Music"
+	]
+},
+{
+	"title": "Naruto",
+	"altTitle": ["ナルト"],
+	"cover": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+	"page": "Naruto/naruto.html",
+	"genre": [
+		"Action",
+		"Adventure",
+		"Shounen"
+	]
+},
+{
+	"title": "Neon Genesis Evangelion",
+	"altTitle": ["Shin Seiki Evangelion"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg",
+	"page": "NGE/nge.html",
+	"genre": [
+		"Mecha",
+		"Drama",
+		"Psychological"
+	]
+},
+{
+	"title": "No Game No Life",
+	"altTitle": ["ノーゲーム・ノーライフ"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1074/111944.jpg",
+	"page": "NGNL/ngnl.html",
+	"genre": [
+		"Fantasy",
+		"Comedy",
+		"Adventure"
+	]
+},
+{
+	"title": "No.6",
+	"altTitle": ["ナンバー・シックス"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/32873.jpg",
+	"page": "No6/no6.html",
+	"genre": [
+		"Sci-Fi",
+		"Mystery",
+		"Drama"
+	]
+},
+{
+	"title": "Noragami Aragoto",
+	"altTitle": ["ノラガミ ARAGOTO"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/76059.jpg",
+	"page": "NoragamiAragoto/noragamiaragoto.html",
+	"genre": [
+		"Action",
+		"Supernatural",
+		"Comedy"
+	]
+},
+{
+	"title": "On-Gaku: Our Sound",
+	"altTitle": ["On-Gaku"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
+	"page": "OnGaku/ongaku.html",
+	"genre": [
+		"Comedy",
+		"Music",
+		"Slice of Life"
+	]
+},
+{
+	"title": "One Piece",
+	"altTitle": ["ワンピース"],
+	"cover": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+	"page": "OnePiece/onepiece.html",
+	"genre": [
+		"Action",
+		"Adventure",
+		"Fantasy"
+	]
+},
+{
+	"title": "One Punch Man",
+	"altTitle": ["ワンパンマン"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/75195.jpg",
+	"page": "OnePunchMan/onepunchman.html",
+	"genre": [
+		"Action",
+		"Comedy",
+		"Super Power"
+	]
+},
+{
+	"title": "Oshi no Ko",
+	"altTitle": ["【推しの子】"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/134237.jpg",
+	"page": "OshiNoKo/oshinoko.html",
+	"genre": [
+		"Drama",
+		"Supernatural",
+		"Music"
+	]
+},
+{
+	"title": "Overlord",
+	"altTitle": ["オーバーロード"],
+	"cover": "https://cdn.myanimelist.net/images/anime/7/88019.jpg",
+	"page": "Overlord/overlord.html",
+	"genre": [
+		"Fantasy",
+		"Isekai",
+		"Action"
+	]
+},
+{
+	"title": "Owari no Seraph (Seraph of the End)",
+	"altTitle": ["Seraph of the End"],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/73474.jpg",
+	"page": "OwariNoSeraph/owarinoseraph.html",
+	"genre": [
+		"Action",
+		"Supernatural",
+		"Drama"
+	]
+}
+,
+	{
+	"title": "Paranoia Agent",
+	"altTitle": ["Mousou Dairinin"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+	"page": "ParanoiaAgent/paranoiaagent.html",
+	"genre": [
+		"Psychological",
+		"Mystery",
+		"Thriller"
+	]
+},
+{
+	"title": "Parasyte: The Maxim",
+	"altTitle": ["Kiseijuu: Sei no Kakuritsu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/73178.jpg",
+	"page": "Parasyte/parasyte.html",
+	"genre": [
+		"Horror",
+		"Action",
+		"Psychological"
+	]
+},
+{
+	"title": "Patema Inverted",
+	"altTitle": ["Sakasama no Patema"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/55251.jpg",
+	"page": "PatemaInverted/patemainverted.html",
+	"genre": [
+		"Sci-Fi",
+		"Adventure",
+		"Drama"
+	]
+},
+{
+	"title": "Penguin Highway",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
+	"page": "PenguinHighway/penguinhighway.html",
+	"genre": [
+		"Sci-Fi",
+		"Mystery",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Plastic Memories",
+	"altTitle": ["Purasutikku Memorīzu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/72943.jpg",
+	"page": "PlasticMemories/plasticmemories.html",
+	"genre": [
+		"Sci-Fi",
+		"Drama",
+		"Romance"
+	]
+},
+{
+	"title": "Psycho-Pass",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/43399.jpg",
+	"page": "PsychoPass/psychopass.html",
+	"genre": [
+		"Sci-Fi",
+		"Thriller",
+		"Psychological"
+	]
+},
+{
+	"title": "Rascal Does Not Dream of Bunny Girl Senpai",
+	"altTitle": ["Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai", "Aobuta"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1308/93598.jpg",
+	"page": "BunnyGirlSenpai/bunnygirlsenpai.html",
+	"genre": [
+		"Romance",
+		"Supernatural",
+		"Drama"
+	]
+},
+{
+	"title": "Re:Zero",
+	"altTitle": ["Re:Zero kara Hajimeru Isekai Seikatsu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/79410.jpg",
+	"page": "ReZero/rezero.html",
+	"genre": [
+		"Fantasy",
+		"Drama",
+		"Psychological"
+	]
+},
+{
+	"title": "ReLIFE",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/82149.jpg",
+	"page": "ReLIFE/relife.html",
+	"genre": [
+		"Drama",
+		"Romance",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Ride Your Wave",
+	"altTitle": ["Kimi to, Nami ni Noretara"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1290/111940.jpg",
+	"page": "RideYourWave/rideyourwave.html",
+	"genre": [
+		"Drama",
+		"Romance",
+		"Supernatural"
+	]
+},
+{
+	"title": "Rokka: Braves of the Six Flowers",
+	"altTitle": ["Rokka no Yuusha"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/75195.jpg",
+	"page": "Rokka/rokka.html",
+	"genre": [
+		"Fantasy",
+		"Action",
+		"Mystery"
+	]
+},
+{
+	"title": "Saga of Tanya the Evil",
+	"altTitle": ["Youjo Senki"],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/82890.jpg",
+	"page": "TanyaEvil/tanyaevil.html",
+	"genre": [
+		"Action",
+		"Fantasy",
+		"Military"
+	]
+},
+{
+	"title": "Samurai Champloo",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/9/22729.jpg",
+	"page": "SamuraiChamploo/samuraichamploo.html",
+	"genre": [
+		"Action",
+		"Adventure",
+		"Historical"
+	]
+},
+{
+	"title": "Sasaki and Miyano",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/117637.jpg",
+	"page": "SasakiMiyano/sasakimiyano.html",
+	"genre": [
+		"Romance",
+		"Slice of Life",
+		"School"
+	]
+},
+{
+	"title": "Sasaki and Peeps",
+	"altTitle": ["Sasaki to Pii-chan"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+	"page": "SasakiPeeps/sasakipeeps.html",
+	"genre": [
+		"Fantasy",
+		"Comedy",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Scum's Wish",
+	"altTitle": ["Kuzu no Honkai"],
+	"cover": "https://cdn.myanimelist.net/images/anime/2/83366.jpg",
+	"page": "ScumsWish/scumswish.html",
+	"genre": [
+		"Drama",
+		"Romance",
+		"Psychological"
+	]
+},
+{
+	"title": "Sengoku Youko",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/138006.jpg",
+	"page": "SengokuYouko/sengokuyouko.html",
+	"genre": [
+		"Action",
+		"Fantasy",
+		"Historical"
+	]
+},
+{
+	"title": "Sengoku Youko: The Thousand Year Fox",
+	"altTitle": ["Sengoku Youko: Senma Konton-hen"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/138006.jpg",
+	"page": "SengokuYouko2/sengokuyouko2.html",
+	"genre": [
+		"Action",
+		"Fantasy",
+		"Historical"
+	]
+},
+{
+	"title": "Shaman King (2021)",
+	"altTitle": ["Shaman King (Remake)"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1766/111823.jpg",
+	"page": "ShamanKing/shamanking.html",
+	"genre": [
+		"Action",
+		"Supernatural",
+		"Adventure"
+	]
+},
+{
+	"title": "Shikimori's Not Just a Cutie",
+	"altTitle": ["Kawaii dake ja Nai Shikimori-san"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/117637.jpg",
+	"page": "Shikimori/shikimori.html",
+	"genre": [
+		"Romance",
+		"Comedy",
+		"Slice of Life"
+	]
+},
+{
+	"title": "So I'm a Spider, So What?",
+	"altTitle": ["Kumo Desu ga, Nani ka?"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1792/111940.jpg",
+	"page": "SpiderSoWhat/spidersowhat.html",
+	"genre": [
+		"Fantasy",
+		"Comedy",
+		"Isekai"
+	]
+},
+{
+	"title": "Solo Leveling",
+	"altTitle": ["Ore dake Level Up na Ken"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1949/138006.jpg",
+	"page": "SoloLeveling/sololeveling.html",
+	"genre": [
+		"Action",
+		"Fantasy",
+		"Adventure"
+	]
+},
+{
+	"title": "Soul Eater",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/9/7804.jpg",
+	"page": "SoulEater/souleater.html",
+	"genre": [
+		"Action",
+		"Fantasy",
+		"Supernatural"
+	]
+},
+{
+	"title": "Spirited Away",
+	"altTitle": ["Sen to Chihiro no Kamikakushi"],
+	"cover": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+	"page": "SpiritedAway/spiritedaway.html",
+	"genre": [
+		"Adventure",
+		"Supernatural",
+		"Drama"
+	]
+},
+{
+	"title": "Spy x Family",
+	"altTitle": ["SPY×FAMILY"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
+	"page": "SpyXFamily/spyfamily.html",
+	"genre": [
+		"Action",
+		"Comedy",
+		"Slice of Life"
+	]
+},
+{
+	"title": "Steins;Gate",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+	"page": "SteinsGate/steinsgate.html",
+	"genre": [
+		"Sci-Fi",
+		"Thriller",
+		"Drama"
+	]
+},
+{
+	"title": "Summer Wars",
+	"altTitle": [],
+	"cover": "https://cdn.myanimelist.net/images/anime/6/25073.jpg",
+	"page": "SummerWars/summerwars.html",
+	"genre": [
+		"Adventure",
+		"Comedy",
+		"Sci-Fi"
+	]
+},
+{
+	"title": "Suzume",
+	"altTitle": ["Suzume no Tojimari"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/134237.jpg",
+	"page": "Suzume/suzume.html",
+	"genre": [
+		"Adventure",
+		"Drama",
+		"Supernatural"
+	]
+},
+{
+	"title": "Sword Art Online",
+	"altTitle": ["SAO"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+	"page": "SAO/sao.html",
+	"genre": [
+		"Action",
+		"Romance",
+		"Fantasy"
+	]
+}
+,
+	{
+	"title": "Tengen Toppa Gurren Lagann",
+	"altTitle": ["Gurren Lagann", "TTGL"],
+	"cover": "https://cdn.myanimelist.net/images/anime/4/5123.jpg",
+	"page": "GurrenLagann/gurrenlagann.html",
+	"genre": ["Mecha", "Action", "Sci-Fi"]
+},
+{
+	"title": "That Time I Got Reincarnated as a Slime",
+	"altTitle": ["Tensei Shitara Slime Datta Ken", "TenSura"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/100798.jpg",
+	"page": "TenseiSlime/thattimegotreincarnatedasslime.html",
+	"genre": ["Fantasy", "Isekai", "Adventure"]
+},
+{
+	"title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+	"altTitle": ["Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo", "100 Kanojo"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/138006.jpg",
+	"page": "100Girlfriends/100girlfriends.html",
+	"genre": ["Comedy", "Romance", "Harem"]
+},
+{
+	"title": "The Angel Next Door Spoils Me Rotten",
+	"altTitle": ["Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken", "Otonari no Tenshi"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
+	"page": "AngelNextDoor/angelnextdoor.html",
+	"genre": ["Romance", "Slice of Life", "Drama"]
+},
+{
+	"title": "The Anthem of the Heart",
+	"altTitle": ["Kokoro ga Sakebitagatterunda.", "Kokosake"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/75791.jpg",
+	"page": "AnthemHeart/anthemheart.html",
+	"genre": ["Drama", "Romance", "Music"]
+},
+{
+	"title": "The Apothecary Diaries",
+	"altTitle": ["Kusuriya no Hitorigoto"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1706/138006.jpg",
+	"page": "ApothecaryDiaries/apothecarydiaries.html",
+	"genre": ["Mystery", "Historical", "Drama"]
+},
+{
+	"title": "The Asterisk War",
+	"altTitle": ["Gakusen Toshi Asterisk"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/76493.jpg",
+	"page": "AsteriskWar/asteriskwar.html",
+	"genre": ["Action", "Fantasy", "School"]
+},
+{
+	"title": "The Birth of Kitaro",
+	"altTitle": ["Gegege no Kitarou: Nippon Bakuretsu!!"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
+	"page": "Kitaro/kitaro.html",
+	"genre": ["Fantasy", "Horror", "Supernatural"]
+},
+{
+	"title": "The Boy and the Beast",
+	"altTitle": ["Bakemono no Ko"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/77935.jpg",
+	"page": "BoyAndBeast/boyandbeast.html",
+	"genre": ["Adventure", "Fantasy", "Comedy"]
+},
+{
+	"title": "The Case of Hana & Alice",
+	"altTitle": ["Hana to Alice: Satsujin Jiken"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/75793.jpg",
+	"page": "HanaAlice/hanaalice.html",
+	"genre": ["Mystery", "Slice of Life", "Drama"]
+},
+{
+	"title": "The Colors Within",
+	"altTitle": ["Kimi no Iro"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
+	"page": "ColorsWithin/colorswithin.html",
+	"genre": ["Drama", "Slice of Life", "Supernatural"]
+},
+{
+	"title": "The Concierge",
+	"altTitle": ["Hokkyoku Department Store Concierge-san"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1706/111940.jpg",
+	"page": "Concierge/concierge.html",
+	"genre": ["Fantasy", "Slice of Life", "Drama"]
+},
+{
+	"title": "The Dangers in My Heart",
+	"altTitle": ["Boku no Kokoro no Yabai Yatsu", "BokuYaba"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/138006.jpg",
+	"page": "DangersInMyHeart/dangersinmyheart.html",
+	"genre": ["Romance", "Comedy", "Slice of Life"]
+},
+{
+	"title": "The Deer King",
+	"altTitle": ["Shika no Ou", "Shika no Ou: Yuna to Yakusoku no Tabi"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/111940.jpg",
+	"page": "DeerKing/deerking.html",
+	"genre": ["Fantasy", "Adventure", "Drama"]
+},
+{
+	"title": "The Demon Prince of Momochi House",
+	"altTitle": ["Momochi-san Chi no Ayakashi Ouji"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/138006.jpg",
+	"page": "MomochiHouse/momochihouse.html",
+	"genre": ["Fantasy", "Romance", "Supernatural"]
+},
+{
+	"title": "The Devil is a Part-Timer!",
+	"altTitle": ["Hataraku Maou-sama!"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/44877.jpg",
+	"page": "DevilPartTimer/devilparttimer.html",
+	"genre": ["Comedy", "Fantasy", "Supernatural"]
+},
+{
+	"title": "The Disappearance of Haruhi Suzumiya",
+	"altTitle": ["Suzumiya Haruhi no Shoushitsu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/2/74047.jpg",
+	"page": "HaruhiMovie/haruhimovie.html",
+	"genre": ["Mystery", "Sci-Fi", "Drama"]
+},
+{
+	"title": "The Fire Hunter",
+	"altTitle": ["Hikari no Ou"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+	"page": "FireHunter/firehunter.html",
+	"genre": ["Fantasy", "Adventure", "Drama"]
+},
+{
+	"title": "The Foolish Angel Dances with the Devil",
+	"altTitle": ["Oroka na Tenshi wa Akuma to Odoru"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/138006.jpg",
+	"page": "FoolishAngel/foolishangel.html",
+	"genre": ["Comedy", "Romance", "Supernatural"]
+}
+
+,
+	{
+	"title": "The Future Diary",
+	"altTitle": ["Mirai Nikki"],
+	"cover": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+	"page": "FutureDiary/futurediary.html",
+	"genre": ["Thriller", "Mystery", "Psychological"]
+},
+{
+	"title": "The Garden of Words",
+	"altTitle": ["Kotonoha no Niwa"],
+	"cover": "https://cdn.myanimelist.net/images/anime/9/49571.jpg",
+	"page": "GardenOfWords/gardenofwords.html",
+	"genre": ["Romance", "Drama", "Slice of Life"]
+},
+{
+	"title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+	"altTitle": ["Tensai Ouji no Akaji Kokka Saisei Jutsu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1949/117637.jpg",
+	"page": "GeniusPrince/geniusprince.html",
+	"genre": ["Fantasy", "Comedy", "Drama"]
+},
+{
+	"title": "The Girl Who Leapt Through Time",
+	"altTitle": ["Toki wo Kakeru Shoujo"],
+	"cover": "https://cdn.myanimelist.net/images/anime/6/27.jpg",
+	"page": "GirlWhoLeapt/girlwholeapt.html",
+	"genre": ["Drama", "Romance", "Sci-Fi"]
+},
+{
+	"title": "The Great Yokai War: Guardians",
+	"altTitle": ["Yokai Daisensou: Guardians"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1949/111940.jpg",
+	"page": "YokaiWar/yokaiwar.html",
+	"genre": ["Fantasy", "Action", "Adventure"]
+},
+{
+	"title": "The Helpful Fox Senko-san",
+	"altTitle": ["Sewayaki Kitsune no Senko-san"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1954/111940.jpg",
+	"page": "SenkoSan/senkosan.html",
+	"genre": ["Comedy", "Supernatural", "Slice of Life"]
+},
+{
+	"title": "The Hidden Dungeon Only I Can Enter",
+	"altTitle": ["Ore dake Haireru Kakushi Dungeon"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
+	"page": "HiddenDungeon/hiddendungeon.html",
+	"genre": ["Fantasy", "Comedy", "Romance"]
+},
+{
+	"title": "The House of the Lost on the Cape",
+	"altTitle": ["Misaki no Mayoiga"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
+	"page": "HouseLostCape/houselostcape.html",
+	"genre": ["Drama", "Fantasy", "Slice of Life"]
+},
+{
+	"title": "The Imaginary",
+	"altTitle": ["Yaneura no Rudger"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
+	"page": "Imaginary/imaginary.html",
+	"genre": ["Fantasy", "Adventure", "Drama"]
+},
+{
+	"title": "The Irregular at Magic High School",
+	"altTitle": ["Mahouka Koukou no Rettousei"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/61039.jpg",
+	"page": "Mahouka/mahouka.html",
+	"genre": ["Fantasy", "Magic", "School"]
+},
+{
+	"title": "The Melancholy of Haruhi Suzumiya",
+	"altTitle": ["Suzumiya Haruhi no Yuuutsu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/75246.jpg",
+	"page": "Haruhi/haruhi.html",
+	"genre": ["Comedy", "Slice of Life", "Supernatural"]
+},
+{
+	"title": "The Misfit of Demon King Academy",
+	"altTitle": ["Maou Gakuin no Futekigousha"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/108005.jpg",
+	"page": "MisfitDemonKing/misfitdemonking.html",
+	"genre": ["Fantasy", "Comedy", "Action"]
+},
+{
+	"title": "The Missing 8",
+	"altTitle": ["The Missing Eight"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
+	"page": "Missing8/missing8.html",
+	"genre": ["Mystery", "Thriller", "Drama"]
+},
+{
+	"title": "The Night is Short, Walk on Girl",
+	"altTitle": ["Yoru wa Mijikashi Aruke yo Otome"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/111940.jpg",
+	"page": "NightShort/nightshort.html",
+	"genre": ["Comedy", "Romance", "Supernatural"]
+},
+{
+	"title": "The Pet Girl of Sakurasou",
+	"altTitle": ["Sakurasou no Pet na Kanojo"],
+	"cover": "https://cdn.myanimelist.net/images/anime/4/43641.jpg",
+	"page": "Sakurasou/sakurasou.html",
+	"genre": ["Comedy", "Romance", "Drama"]
+},
+{
+	"title": "The Place Promised in Our Early Days",
+	"altTitle": ["Kumo no Mukou, Yakusoku no Basho"],
+	"cover": "https://cdn.myanimelist.net/images/anime/12/75789.jpg",
+	"page": "PlacePromised/placepromised.html",
+	"genre": ["Drama", "Romance", "Sci-Fi"]
+},
+{
+	"title": "The Promised Neverland",
+	"altTitle": ["Yakusoku no Neverland"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1785/104617.jpg",
+	"page": "PromisedNeverland/promisedneverland.html",
+	"genre": ["Thriller", "Mystery", "Horror"]
+},
+{
+	"title": "The Quintessential Quintuplets",
+	"altTitle": ["Go-Toubun no Hanayome"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/110808.jpg",
+	"page": "QuintessentialQuintuplets/quintuplets.html",
+	"genre": ["Romance", "Comedy", "Harem"]
+},
+{
+	"title": "The Rising of the Shield Hero",
+	"altTitle": ["Tate no Yuusha no Nariagari"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1490/101278.jpg",
+	"page": "ShieldHero/shieldhero.html",
+	"genre": ["Action", "Adventure", "Fantasy"]
+},
+{
+	"title": "The Seven Deadly Sins",
+	"altTitle": ["Nanatsu no Taizai"],
+	"cover": "https://cdn.myanimelist.net/images/anime/8/65409.jpg",
+	"page": "SevenDeadlySins/sevendeadlysins.html",
+	"genre": ["Action", "Adventure", "Fantasy"]
+},
+{
+	"title": "The Tunnel to Summer, the Exit of Goodbyes",
+	"altTitle": ["Natsu e no Tunnel, Sayonara no Deguchi"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1949/111940.jpg",
+	"page": "TunnelSummer/tunnelsummer.html",
+	"genre": ["Drama", "Romance", "Sci-Fi"]
+},
+{
+	"title": "The Unwanted Undead Adventurer",
+	"altTitle": ["Nozomanu Fushi no Boukensha"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1982/138006.jpg",
+	"page": "UndeadAdventurer/undeadadventurer.html",
+	"genre": ["Fantasy", "Adventure", "Drama"]
+},
+{
+	"title": "The Unwanted Undead Adventurer: Second Journey",
+	"altTitle": ["Nozomanu Fushi no Boukensha: Tabi no Tsuzuki"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/138006.jpg",
+	"page": "UndeadAdventurer2/undeadadventurer2.html",
+	"genre": ["Fantasy", "Adventure", "Drama"]
+},
+{
+	"title": "The Vampire Dies in No Time",
+	"altTitle": ["Kyuuketsuki Sugu Shinu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1706/111940.jpg",
+	"page": "VampireDies/vampiredies.html",
+	"genre": ["Comedy", "Supernatural", "Vampire"]
+},
+{
+	"title": "The Weakest Tamer Began a Journey to Pick Up Trash",
+	"altTitle": ["Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita."],
+	"cover": "https://cdn.myanimelist.net/images/anime/1706/138006.jpg",
+	"page": "WeakestTamer/weakesttamer.html",
+	"genre": ["Fantasy", "Adventure", "Slice of Life"]
+},
+{
+	"title": "The Weakest Tamer's Journey Continues",
+	"altTitle": ["Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. Zoku"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1255/138006.jpg",
+	"page": "WeakestTamer2/weakesttamer2.html",
+	"genre": ["Fantasy", "Adventure", "Slice of Life"]
+},
+{
+	"title": "The Witch and the Beast",
+	"altTitle": ["Majo to Yajuu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1255/138006.jpg",
+	"page": "WitchBeast/witchbeast.html",
+	"genre": ["Fantasy", "Action", "Mystery"]
+},
+{
+	"title": "The Wonderland",
+	"altTitle": ["Birthday Wonderland"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/111940.jpg",
+	"page": "Wonderland/wonderland.html",
+	"genre": ["Adventure", "Fantasy", "Drama"]
+},
+{
+	"title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+	"altTitle": ["Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1911/117637.jpg",
+	"page": "FinestAssassin/finestassassin.html",
+	"genre": ["Fantasy", "Action", "Isekai"]
+},
+{
+	"title": "The Wrong Way to Use Healing Magic",
+	"altTitle": ["Chiyu Mahou no Machigatta Tsukaikata"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1255/138006.jpg",
+	"page": "HealingMagic/healingmagic.html",
+	"genre": ["Fantasy", "Comedy", "Action"]
+},
+{
+	"title": "The Yakuza's Guide to Babysitting",
+	"altTitle": ["Kumichou Musume to Sewagakari"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
+	"page": "YakuzaBabysitting/yakuzababysitting.html",
+	"genre": ["Comedy", "Slice of Life", "Drama"]
+},
+{
+	"title": "To Your Eternity",
+	"altTitle": ["Fumetsu no Anata e"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1592/110457.jpg",
+	"page": "ToYourEternity/toyoureternity.html",
+	"genre": ["Fantasy", "Drama", "Adventure"]
+},
+{
+	"title": "Tokyo Ghoul",
+	"altTitle": ["Tokyo Kushu"],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+	"page": "TokyoGhoul/tokyoghoul.html",
+	"genre": ["Action", "Horror", "Supernatural"]
+},
+{
+	"title": "Toradora!",
+	"altTitle": ["Toradora"],
+	"cover": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+	"page": "Toradora/toradora.html",
+	"genre": ["Romance", "Comedy", "Slice of Life"]
+},
+{
+	"title": "Trinity Seven",
+	"altTitle": ["Toriniti Sebun"],
+	"cover": "https://cdn.myanimelist.net/images/anime/8/64225.jpg",
+	"page": "TrinitySeven/trinityseven.html",
+	"genre": ["Fantasy", "Comedy", "Harem"]
+},
+{
+	"title": "Tsuki ga Kirei",
+	"altTitle": ["As the Moon, So Beautiful"],
+	"cover": "https://cdn.myanimelist.net/images/anime/6/85469.jpg",
+	"page": "TsukiGaKirei/tsukigakirei.html",
+	"genre": ["Romance", "Drama", "Slice of Life"]
+}
+,
+	{
+	"title": "Vinland Saga",
+	"altTitle": ["Vinland Saga Season 1"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1502/123659.jpg",
+	"page": "VinlandSaga/vinlandsaga.html",
+	"genre": ["Action", "Historical", "Drama"]
+},
+{
+	"title": "Violet Evergarden",
+	"altTitle": ["Vaioretto Evergāden"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+	"page": "VioletEvergarden/violetergarden.html",
+	"genre": ["Drama", "Fantasy", "Slice of Life"]
+},
+{
+	"title": "Vivy: Fluorite Eye's Song",
+	"altTitle": ["Vivy"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1345/111384.jpg",
+	"page": "Vivy/vivy.html",
+	"genre": ["Sci-Fi", "Drama", "Music"]
+},
+{
+	"title": "Vivy: Fluorite Eye's Song - Special",
+	"altTitle": ["Vivy Special"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1345/111384.jpg",
+	"page": "VivySpecial/vivyspecial.html",
+	"genre": ["Sci-Fi", "Drama", "Music"]
+},
+{
+	"title": "We Never Learn",
+	"altTitle": ["Bokutachi wa Benkyou ga Dekinai", "BokuBen"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1015/111940.jpg",
+	"page": "WeNeverLearn/weneverlearn.html",
+	"genre": ["Comedy", "Romance", "Harem"]
+},
+{
+	"title": "Weathering With You",
+	"altTitle": ["Tenki no Ko"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1595/102531.jpg",
+	"page": "WeatheringWithYou/weatheringwithyou.html",
+	"genre": ["Romance", "Drama", "Supernatural"]
+},
+{
+	"title": "When Will Ayumu Make His Move?",
+	"altTitle": ["Soredemo Ayumu wa Yosetekuru"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/117637.jpg",
+	"page": "Ayumu/ayumu.html",
+	"genre": ["Comedy", "Romance", "School"]
+},
+{
+	"title": "Wolf Children",
+	"altTitle": ["Ōkami Kodomo no Ame to Yuki"],
+	"cover": "https://cdn.myanimelist.net/images/anime/9/35799.jpg",
+	"page": "WolfChildren/wolfchildren.html",
+	"genre": ["Drama", "Fantasy", "Slice of Life"]
+},
+{
+	"title": "Wonder Egg Priority",
+	"altTitle": ["Wandā Eggu Puraioriti"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1255/111940.jpg",
+	"page": "WonderEgg/wonderegg.html",
+	"genre": ["Drama", "Psychological", "Fantasy"]
+},
+{
+	"title": "Words Bubble Up Like Soda Pop",
+	"altTitle": ["Cider no You ni Kotoba ga Wakiagaru"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1815/111940.jpg",
+	"page": "WordsBubbleUp/wordsbubbleup.html",
+	"genre": ["Romance", "Music", "Slice of Life"]
+},
+{
+	"title": "Wotakoi: Love is Hard for Otaku",
+	"altTitle": ["Wotaku ni Koi wa Muzukashii"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1869/93689.jpg",
+	"page": "Wotakoi/wotakoi.html",
+	"genre": ["Romance", "Comedy", "Slice of Life"]
+},
+{
+	"title": "Your Lie in April",
+	"altTitle": ["Shigatsu wa Kimi no Uso"],
+	"cover": "https://cdn.myanimelist.net/images/anime/3/67177.jpg",
+	"page": "YourLieInApril/yourlieinapril.html",
+	"genre": ["Drama", "Music", "Romance"]
+},
+{
+	"title": "Your Name",
+	"altTitle": ["Kimi no Na wa."],
+	"cover": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+	"page": "YourName/yourname.html",
+	"genre": ["Romance", "Drama", "Supernatural"]
+},
+{
+	"title": "Yu Yu Hakusho",
+	"altTitle": ["Yuu☆Yuu☆Hakusho"],
+	"cover": "https://cdn.myanimelist.net/images/anime/10/22002.jpg",
+	"page": "YuYuHakusho/yuyuhakusho.html",
+	"genre": ["Action", "Supernatural", "Martial Arts"]
+},
+{
+	"title": "Zankyou no Terror (Terror in Resonance)",
+	"altTitle": ["Terror in Resonance"],
+	"cover": "https://cdn.myanimelist.net/images/anime/7/64277.jpg",
+	"page": "TerrorResonance/terrorresonance.html",
+	"genre": ["Thriller", "Mystery", "Psychological"]
+},
+{
+	"title": "Zetsuen no Tempest",
+	"altTitle": ["Blast of Tempest"],
+	"cover": "https://cdn.myanimelist.net/images/anime/11/42203.jpg",
+	"page": "ZetsuenNoTempest/zetsuennotempest.html",
+	"genre": ["Fantasy", "Mystery", "Drama"]
+},
+{
+	"title": "Zom 100: Bucket List of the Dead",
+	"altTitle": ["Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"],
+	"cover": "https://cdn.myanimelist.net/images/anime/1233/134237.jpg",
+	"page": "Zom100/zom100.html",
+	"genre": ["Comedy", "Horror", "Zombie"]
+}
+
 ]

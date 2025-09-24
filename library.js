@@ -20,14 +20,14 @@ function searchAnime() {
 
   cards.forEach(card => {
     const title = card.querySelector("h3").innerText.toLowerCase();
-    if (title.includes(input)) {
+    const alt = card.querySelector(".altTitle").innerText.toLowerCase();
+    if (title.includes(input) || alt.includes(input)) {
       card.style.display = "block";
     } else {
       card.style.display = "none";
     }
   });
 }
-
 
 function displayAnime(genre) {
   const grid = document.getElementById("libraryGrid");
@@ -47,6 +47,7 @@ function displayAnime(genre) {
     card.innerHTML = `
       <img src="${anime.cover}" alt="${anime.title}">
       <h3>${anime.title}</h3>
+      <p class="altTitle" style="display:none;">${anime.altTitle || ""}</p>
     `;
     grid.appendChild(card);
   });

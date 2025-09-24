@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>OAuth Callback</title>
+</head>
+<body>
+  <script>
+    // Extract code from URL
+    const params = new URLSearchParams(window.location.search);
+    const code = params.get("code");
+
+    if (code) {
+      // Save code in localStorage for later use
+      localStorage.setItem("mal_auth_code", code);
+      document.body.innerHTML = "<h2>Authentication Successful!</h2><p>You can close this page and return to the app.</p>";
+    } else {
+      document.body.innerHTML = "<h2>Authentication Failed</h2>";
+    }
+  </script>
+</body>
+</html>
